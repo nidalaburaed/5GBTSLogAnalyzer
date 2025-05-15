@@ -1,0 +1,900 @@
+2025-05-14 08:32:10 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xCA11 (RNTI=0xCB3)
+2025-05-14 08:32:10.005000 [gNodeB] [INFO] Allocated C-RNTI=0x143 for UE_ID=0xCA11
+2025-05-14 08:32:10.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xCA11
+2025-05-14 08:32:10.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xCA11, TBS=3358 bytes, MCS=13, RBs=45
+2025-05-14 08:32:10.070000 [PHY] [UL] PUSCH received from UE_ID=0xCA11, RSRP=-86.1 dBm, SINR=18.1 dB, CQI=6
+2025-05-14 08:32:10.095000 [PDCP] [UL] Uplink data received from UE_ID=0xCA11, SDU size=278 bytes
+2025-05-14 08:32:10.111000 [RLC] [UL] RLC ACK received from UE_ID=0xCA11, Seq=1693
+2025-05-14 08:32:10.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xCA11
+2025-05-14 08:32:10.160000 [PHY] [MEAS] UE_ID=0xCA11: RSRP=-81.8 dBm, RSRQ=-13.1 dB, SINR=12.9 dB
+2025-05-14 08:32:10.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x5991 (RNTI=0xA98)
+2025-05-14 08:32:10.505000 [gNodeB] [INFO] Allocated C-RNTI=0xB82 for UE_ID=0x5991
+2025-05-14 08:32:10.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x5991
+2025-05-14 08:32:10.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x5991, TBS=3658 bytes, MCS=12, RBs=46
+2025-05-14 08:32:10.570000 [PHY] [UL] PUSCH received from UE_ID=0x5991, RSRP=-87.8 dBm, SINR=26.1 dB, CQI=13
+2025-05-14 08:32:10.595000 [PDCP] [UL] Uplink data received from UE_ID=0x5991, SDU size=179 bytes
+2025-05-14 08:32:10.611000 [RLC] [UL] RLC ACK received from UE_ID=0x5991, Seq=1185
+2025-05-14 08:32:10.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x5991
+2025-05-14 08:32:10.660000 [PHY] [MEAS] UE_ID=0x5991: RSRP=-98.0 dBm, RSRQ=-9.9 dB, SINR=23.1 dB
+2025-05-14 08:32:11 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x4179 (RNTI=0xC85)
+2025-05-14 08:32:11.005000 [gNodeB] [INFO] Allocated C-RNTI=0xAAE for UE_ID=0x4179
+2025-05-14 08:32:11.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x4179
+2025-05-14 08:32:11.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x4179, TBS=3666 bytes, MCS=23, RBs=40
+2025-05-14 08:32:11.070000 [PHY] [UL] PUSCH received from UE_ID=0x4179, RSRP=-81.5 dBm, SINR=13.7 dB, CQI=15
+2025-05-14 08:32:11.095000 [PDCP] [UL] Uplink data received from UE_ID=0x4179, SDU size=176 bytes
+2025-05-14 08:32:11.111000 [RLC] [UL] RLC ACK received from UE_ID=0x4179, Seq=1530
+2025-05-14 08:32:11.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x4179
+2025-05-14 08:32:11.160000 [PHY] [MEAS] UE_ID=0x4179: RSRP=-96.5 dBm, RSRQ=-13.4 dB, SINR=20.6 dB
+2025-05-14 08:32:11.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xC9C2 (RNTI=0x773)
+2025-05-14 08:32:11.505000 [gNodeB] [INFO] Allocated C-RNTI=0x412 for UE_ID=0xC9C2
+2025-05-14 08:32:11.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xC9C2
+2025-05-14 08:32:11.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xC9C2, TBS=3782 bytes, MCS=19, RBs=50
+2025-05-14 08:32:11.570000 [PHY] [UL] PUSCH received from UE_ID=0xC9C2, RSRP=-94.9 dBm, SINR=18.6 dB, CQI=8
+2025-05-14 08:32:11.595000 [PDCP] [UL] Uplink data received from UE_ID=0xC9C2, SDU size=169 bytes
+2025-05-14 08:32:11.611000 [RLC] [UL] RLC ACK received from UE_ID=0xC9C2, Seq=1660
+2025-05-14 08:32:11.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xC9C2
+2025-05-14 08:32:11.660000 [PHY] [MEAS] UE_ID=0xC9C2: RSRP=-83.4 dBm, RSRQ=-12.8 dB, SINR=29.4 dB
+2025-05-14 08:32:12 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xC9A4 (RNTI=0x5EE)
+2025-05-14 08:32:12.005000 [gNodeB] [INFO] Allocated C-RNTI=0xD44 for UE_ID=0xC9A4
+2025-05-14 08:32:12.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xC9A4
+2025-05-14 08:32:12.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xC9A4, TBS=3270 bytes, MCS=17, RBs=47
+2025-05-14 08:32:12.070000 [PHY] [UL] PUSCH received from UE_ID=0xC9A4, RSRP=-89.2 dBm, SINR=10.1 dB, CQI=7
+2025-05-14 08:32:12.095000 [PDCP] [UL] Uplink data received from UE_ID=0xC9A4, SDU size=130 bytes
+2025-05-14 08:32:12.111000 [RLC] [UL] RLC ACK received from UE_ID=0xC9A4, Seq=1154
+2025-05-14 08:32:12.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xC9A4
+2025-05-14 08:32:12.160000 [PHY] [MEAS] UE_ID=0xC9A4: RSRP=-91.9 dBm, RSRQ=-7.5 dB, SINR=19.1 dB
+2025-05-14 08:32:12.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x1F0A (RNTI=0xD37)
+2025-05-14 08:32:12.505000 [gNodeB] [INFO] Allocated C-RNTI=0xE60 for UE_ID=0x1F0A
+2025-05-14 08:32:12.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x1F0A
+2025-05-14 08:32:12.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x1F0A, TBS=3464 bytes, MCS=24, RBs=59
+2025-05-14 08:32:12.570000 [PHY] [UL] PUSCH received from UE_ID=0x1F0A, RSRP=-88.1 dBm, SINR=23.3 dB, CQI=14
+2025-05-14 08:32:12.595000 [PDCP] [UL] Uplink data received from UE_ID=0x1F0A, SDU size=239 bytes
+2025-05-14 08:32:12.611000 [RLC] [UL] RLC ACK received from UE_ID=0x1F0A, Seq=1797
+2025-05-14 08:32:12.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x1F0A
+2025-05-14 08:32:12.660000 [PHY] [MEAS] UE_ID=0x1F0A: RSRP=-99.5 dBm, RSRQ=-5.8 dB, SINR=16.7 dB
+2025-05-14 08:32:13 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xFD0C (RNTI=0xD63)
+2025-05-14 08:32:13.005000 [gNodeB] [INFO] Allocated C-RNTI=0x983 for UE_ID=0xFD0C
+2025-05-14 08:32:13.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xFD0C
+2025-05-14 08:32:13.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xFD0C, TBS=3560 bytes, MCS=21, RBs=59
+2025-05-14 08:32:13.070000 [PHY] [UL] PUSCH received from UE_ID=0xFD0C, RSRP=-82.3 dBm, SINR=23.9 dB, CQI=11
+2025-05-14 08:32:13.095000 [PDCP] [UL] Uplink data received from UE_ID=0xFD0C, SDU size=250 bytes
+2025-05-14 08:32:13.111000 [RLC] [UL] RLC ACK received from UE_ID=0xFD0C, Seq=1062
+2025-05-14 08:32:13.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xFD0C
+2025-05-14 08:32:13.160000 [PHY] [MEAS] UE_ID=0xFD0C: RSRP=-85.3 dBm, RSRQ=-5.5 dB, SINR=23.0 dB
+2025-05-14 08:32:13.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x1ACC (RNTI=0x361)
+2025-05-14 08:32:13.505000 [gNodeB] [INFO] Allocated C-RNTI=0x061 for UE_ID=0x1ACC
+2025-05-14 08:32:13.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x1ACC
+2025-05-14 08:32:13.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x1ACC, TBS=3965 bytes, MCS=10, RBs=48
+2025-05-14 08:32:13.570000 [PHY] [UL] PUSCH received from UE_ID=0x1ACC, RSRP=-83.3 dBm, SINR=16.1 dB, CQI=6
+2025-05-14 08:32:13.595000 [PDCP] [UL] Uplink data received from UE_ID=0x1ACC, SDU size=215 bytes
+2025-05-14 08:32:13.611000 [RLC] [UL] RLC ACK received from UE_ID=0x1ACC, Seq=1430
+2025-05-14 08:32:13.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x1ACC
+2025-05-14 08:32:13.660000 [PHY] [MEAS] UE_ID=0x1ACC: RSRP=-85.0 dBm, RSRQ=-9.1 dB, SINR=13.4 dB
+2025-05-14 08:32:14 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x2969 (RNTI=0xBCA)
+2025-05-14 08:32:14.005000 [gNodeB] [INFO] Allocated C-RNTI=0xA5F for UE_ID=0x2969
+2025-05-14 08:32:14.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x2969
+2025-05-14 08:32:14.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x2969, TBS=3233 bytes, MCS=21, RBs=41
+2025-05-14 08:32:14.070000 [PHY] [UL] PUSCH received from UE_ID=0x2969, RSRP=-94.3 dBm, SINR=23.1 dB, CQI=13
+2025-05-14 08:32:14.095000 [PDCP] [UL] Uplink data received from UE_ID=0x2969, SDU size=180 bytes
+2025-05-14 08:32:14.111000 [RLC] [UL] RLC ACK received from UE_ID=0x2969, Seq=1173
+2025-05-14 08:32:14.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x2969
+2025-05-14 08:32:14.160000 [PHY] [MEAS] UE_ID=0x2969: RSRP=-81.5 dBm, RSRQ=-13.7 dB, SINR=22.1 dB
+2025-05-14 08:32:14.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x01D7 (RNTI=0xCF0)
+2025-05-14 08:32:14.505000 [gNodeB] [INFO] Allocated C-RNTI=0x235 for UE_ID=0x01D7
+2025-05-14 08:32:14.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x01D7
+2025-05-14 08:32:14.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x01D7, TBS=3507 bytes, MCS=18, RBs=46
+2025-05-14 08:32:14.570000 [PHY] [UL] PUSCH received from UE_ID=0x01D7, RSRP=-92.1 dBm, SINR=25.7 dB, CQI=15
+2025-05-14 08:32:14.595000 [PDCP] [UL] Uplink data received from UE_ID=0x01D7, SDU size=122 bytes
+2025-05-14 08:32:14.611000 [RLC] [UL] RLC ACK received from UE_ID=0x01D7, Seq=1663
+2025-05-14 08:32:14.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x01D7
+2025-05-14 08:32:14.660000 [PHY] [MEAS] UE_ID=0x01D7: RSRP=-93.2 dBm, RSRQ=-11.8 dB, SINR=18.4 dB
+2025-05-14 08:32:15 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x51FD (RNTI=0xB0B)
+2025-05-14 08:32:15.005000 [gNodeB] [INFO] Allocated C-RNTI=0x3BD for UE_ID=0x51FD
+2025-05-14 08:32:15.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x51FD
+2025-05-14 08:32:15.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x51FD, TBS=3251 bytes, MCS=22, RBs=53
+2025-05-14 08:32:15.070000 [PHY] [UL] PUSCH received from UE_ID=0x51FD, RSRP=-83.3 dBm, SINR=11.7 dB, CQI=9
+2025-05-14 08:32:15.095000 [PDCP] [UL] Uplink data received from UE_ID=0x51FD, SDU size=145 bytes
+2025-05-14 08:32:15.111000 [RLC] [UL] RLC ACK received from UE_ID=0x51FD, Seq=1469
+2025-05-14 08:32:15.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x51FD
+2025-05-14 08:32:15.160000 [PHY] [MEAS] UE_ID=0x51FD: RSRP=-92.3 dBm, RSRQ=-12.2 dB, SINR=16.3 dB
+2025-05-14 08:32:15.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x2B91 (RNTI=0x5B3)
+2025-05-14 08:32:15.505000 [gNodeB] [INFO] Allocated C-RNTI=0x72C for UE_ID=0x2B91
+2025-05-14 08:32:15.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x2B91
+2025-05-14 08:32:15.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x2B91, TBS=3393 bytes, MCS=14, RBs=56
+2025-05-14 08:32:15.570000 [PHY] [UL] PUSCH received from UE_ID=0x2B91, RSRP=-89.8 dBm, SINR=28.6 dB, CQI=13
+2025-05-14 08:32:15.595000 [PDCP] [UL] Uplink data received from UE_ID=0x2B91, SDU size=210 bytes
+2025-05-14 08:32:15.611000 [RLC] [UL] RLC ACK received from UE_ID=0x2B91, Seq=1509
+2025-05-14 08:32:15.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x2B91
+2025-05-14 08:32:15.660000 [PHY] [MEAS] UE_ID=0x2B91: RSRP=-87.0 dBm, RSRQ=-13.7 dB, SINR=10.3 dB
+2025-05-14 08:32:16 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xCF9D (RNTI=0xB84)
+2025-05-14 08:32:16.005000 [gNodeB] [INFO] Allocated C-RNTI=0x8D9 for UE_ID=0xCF9D
+2025-05-14 08:32:16.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xCF9D
+2025-05-14 08:32:16.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xCF9D, TBS=3469 bytes, MCS=26, RBs=46
+2025-05-14 08:32:16.070000 [PHY] [UL] PUSCH received from UE_ID=0xCF9D, RSRP=-84.8 dBm, SINR=25.2 dB, CQI=12
+2025-05-14 08:32:16.095000 [PDCP] [UL] Uplink data received from UE_ID=0xCF9D, SDU size=169 bytes
+2025-05-14 08:32:16.111000 [RLC] [UL] RLC ACK received from UE_ID=0xCF9D, Seq=1408
+2025-05-14 08:32:16.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xCF9D
+2025-05-14 08:32:16.160000 [PHY] [MEAS] UE_ID=0xCF9D: RSRP=-80.8 dBm, RSRQ=-13.6 dB, SINR=10.5 dB
+2025-05-14 08:32:16.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x5BC0 (RNTI=0xFEF)
+2025-05-14 08:32:16.505000 [gNodeB] [INFO] Allocated C-RNTI=0x1F2 for UE_ID=0x5BC0
+2025-05-14 08:32:16.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x5BC0
+2025-05-14 08:32:16.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x5BC0, TBS=3151 bytes, MCS=26, RBs=43
+2025-05-14 08:32:16.570000 [PHY] [UL] PUSCH received from UE_ID=0x5BC0, RSRP=-86.5 dBm, SINR=19.0 dB, CQI=15
+2025-05-14 08:32:16.595000 [PDCP] [UL] Uplink data received from UE_ID=0x5BC0, SDU size=125 bytes
+2025-05-14 08:32:16.611000 [RLC] [UL] RLC ACK received from UE_ID=0x5BC0, Seq=1718
+2025-05-14 08:32:16.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x5BC0
+2025-05-14 08:32:16.660000 [PHY] [MEAS] UE_ID=0x5BC0: RSRP=-99.3 dBm, RSRQ=-14.7 dB, SINR=24.2 dB
+2025-05-14 08:32:17 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x97B8 (RNTI=0x528)
+2025-05-14 08:32:17.005000 [gNodeB] [INFO] Allocated C-RNTI=0x48C for UE_ID=0x97B8
+2025-05-14 08:32:17.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x97B8
+2025-05-14 08:32:17.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x97B8, TBS=3482 bytes, MCS=12, RBs=50
+2025-05-14 08:32:17.070000 [PHY] [UL] PUSCH received from UE_ID=0x97B8, RSRP=-94.9 dBm, SINR=11.4 dB, CQI=13
+2025-05-14 08:32:17.095000 [PDCP] [UL] Uplink data received from UE_ID=0x97B8, SDU size=179 bytes
+2025-05-14 08:32:17.111000 [RLC] [UL] RLC ACK received from UE_ID=0x97B8, Seq=1664
+2025-05-14 08:32:17.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x97B8
+2025-05-14 08:32:17.160000 [PHY] [MEAS] UE_ID=0x97B8: RSRP=-82.4 dBm, RSRQ=-11.4 dB, SINR=18.1 dB
+2025-05-14 08:32:17.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x21FB (RNTI=0x111)
+2025-05-14 08:32:17.505000 [gNodeB] [INFO] Allocated C-RNTI=0x0EE for UE_ID=0x21FB
+2025-05-14 08:32:17.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x21FB
+2025-05-14 08:32:17.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x21FB, TBS=3356 bytes, MCS=12, RBs=41
+2025-05-14 08:32:17.570000 [PHY] [UL] PUSCH received from UE_ID=0x21FB, RSRP=-96.3 dBm, SINR=29.8 dB, CQI=10
+2025-05-14 08:32:17.595000 [PDCP] [UL] Uplink data received from UE_ID=0x21FB, SDU size=171 bytes
+2025-05-14 08:32:17.611000 [RLC] [UL] RLC ACK received from UE_ID=0x21FB, Seq=1864
+2025-05-14 08:32:17.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x21FB
+2025-05-14 08:32:17.660000 [PHY] [MEAS] UE_ID=0x21FB: RSRP=-94.6 dBm, RSRQ=-14.9 dB, SINR=22.2 dB
+2025-05-14 08:32:18 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xE02E (RNTI=0xE7A)
+2025-05-14 08:32:18.005000 [gNodeB] [INFO] Allocated C-RNTI=0x988 for UE_ID=0xE02E
+2025-05-14 08:32:18.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xE02E
+2025-05-14 08:32:18.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xE02E, TBS=3440 bytes, MCS=14, RBs=55
+2025-05-14 08:32:18.070000 [PHY] [UL] PUSCH received from UE_ID=0xE02E, RSRP=-82.7 dBm, SINR=13.8 dB, CQI=10
+2025-05-14 08:32:18.095000 [PDCP] [UL] Uplink data received from UE_ID=0xE02E, SDU size=128 bytes
+2025-05-14 08:32:18.111000 [RLC] [UL] RLC ACK received from UE_ID=0xE02E, Seq=1909
+2025-05-14 08:32:18.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xE02E
+2025-05-14 08:32:18.160000 [PHY] [MEAS] UE_ID=0xE02E: RSRP=-89.6 dBm, RSRQ=-14.7 dB, SINR=21.7 dB
+2025-05-14 08:32:18.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xCC56 (RNTI=0x637)
+2025-05-14 08:32:18.505000 [gNodeB] [INFO] Allocated C-RNTI=0x6C2 for UE_ID=0xCC56
+2025-05-14 08:32:18.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xCC56
+2025-05-14 08:32:18.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xCC56, TBS=3008 bytes, MCS=11, RBs=41
+2025-05-14 08:32:18.570000 [PHY] [UL] PUSCH received from UE_ID=0xCC56, RSRP=-90.1 dBm, SINR=11.6 dB, CQI=9
+2025-05-14 08:32:18.595000 [PDCP] [UL] Uplink data received from UE_ID=0xCC56, SDU size=155 bytes
+2025-05-14 08:32:18.611000 [RLC] [UL] RLC ACK received from UE_ID=0xCC56, Seq=1372
+2025-05-14 08:32:18.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xCC56
+2025-05-14 08:32:18.660000 [PHY] [MEAS] UE_ID=0xCC56: RSRP=-89.1 dBm, RSRQ=-13.4 dB, SINR=16.6 dB
+2025-05-14 08:32:19 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x01BD (RNTI=0x2E0)
+2025-05-14 08:32:19.005000 [gNodeB] [INFO] Allocated C-RNTI=0x51F for UE_ID=0x01BD
+2025-05-14 08:32:19.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x01BD
+2025-05-14 08:32:19.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x01BD, TBS=3256 bytes, MCS=15, RBs=58
+2025-05-14 08:32:19.070000 [PHY] [UL] PUSCH received from UE_ID=0x01BD, RSRP=-84.8 dBm, SINR=15.9 dB, CQI=11
+2025-05-14 08:32:19.095000 [PDCP] [UL] Uplink data received from UE_ID=0x01BD, SDU size=262 bytes
+2025-05-14 08:32:19.111000 [RLC] [UL] RLC ACK received from UE_ID=0x01BD, Seq=1093
+2025-05-14 08:32:19.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x01BD
+2025-05-14 08:32:19.160000 [PHY] [MEAS] UE_ID=0x01BD: RSRP=-84.8 dBm, RSRQ=-14.4 dB, SINR=24.1 dB
+2025-05-14 08:32:19.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x97EF (RNTI=0x3B6)
+2025-05-14 08:32:19.505000 [gNodeB] [INFO] Allocated C-RNTI=0x658 for UE_ID=0x97EF
+2025-05-14 08:32:19.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x97EF
+2025-05-14 08:32:19.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x97EF, TBS=3639 bytes, MCS=16, RBs=50
+2025-05-14 08:32:19.570000 [PHY] [UL] PUSCH received from UE_ID=0x97EF, RSRP=-80.7 dBm, SINR=14.2 dB, CQI=15
+2025-05-14 08:32:19.595000 [PDCP] [UL] Uplink data received from UE_ID=0x97EF, SDU size=196 bytes
+2025-05-14 08:32:19.611000 [RLC] [UL] RLC ACK received from UE_ID=0x97EF, Seq=1047
+2025-05-14 08:32:19.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x97EF
+2025-05-14 08:32:19.660000 [PHY] [MEAS] UE_ID=0x97EF: RSRP=-97.5 dBm, RSRQ=-6.1 dB, SINR=21.1 dB
+2025-05-14 08:32:20 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xF763 (RNTI=0x577)
+2025-05-14 08:32:20.005000 [gNodeB] [INFO] Allocated C-RNTI=0x904 for UE_ID=0xF763
+2025-05-14 08:32:20.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xF763
+2025-05-14 08:32:20.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xF763, TBS=3270 bytes, MCS=21, RBs=54
+2025-05-14 08:32:20.070000 [PHY] [UL] PUSCH received from UE_ID=0xF763, RSRP=-96.9 dBm, SINR=28.1 dB, CQI=5
+2025-05-14 08:32:20.095000 [PDCP] [UL] Uplink data received from UE_ID=0xF763, SDU size=197 bytes
+2025-05-14 08:32:20.111000 [RLC] [UL] RLC ACK received from UE_ID=0xF763, Seq=1886
+2025-05-14 08:32:20.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xF763
+2025-05-14 08:32:20.160000 [PHY] [MEAS] UE_ID=0xF763: RSRP=-83.8 dBm, RSRQ=-5.5 dB, SINR=14.7 dB
+2025-05-14 08:32:20.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xF538 (RNTI=0xA2B)
+2025-05-14 08:32:20.505000 [gNodeB] [INFO] Allocated C-RNTI=0x1A0 for UE_ID=0xF538
+2025-05-14 08:32:20.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xF538
+2025-05-14 08:32:20.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xF538, TBS=3903 bytes, MCS=19, RBs=46
+2025-05-14 08:32:20.570000 [PHY] [UL] PUSCH received from UE_ID=0xF538, RSRP=-86.4 dBm, SINR=28.8 dB, CQI=14
+2025-05-14 08:32:20.595000 [PDCP] [UL] Uplink data received from UE_ID=0xF538, SDU size=211 bytes
+2025-05-14 08:32:20.611000 [RLC] [UL] RLC ACK received from UE_ID=0xF538, Seq=1143
+2025-05-14 08:32:20.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xF538
+2025-05-14 08:32:20.660000 [PHY] [MEAS] UE_ID=0xF538: RSRP=-81.2 dBm, RSRQ=-7.6 dB, SINR=13.8 dB
+2025-05-14 08:32:21 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x8CD2 (RNTI=0x630)
+2025-05-14 08:32:21.005000 [gNodeB] [INFO] Allocated C-RNTI=0x183 for UE_ID=0x8CD2
+2025-05-14 08:32:21.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x8CD2
+2025-05-14 08:32:21.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x8CD2, TBS=3785 bytes, MCS=19, RBs=55
+2025-05-14 08:32:21.070000 [PHY] [UL] PUSCH received from UE_ID=0x8CD2, RSRP=-99.5 dBm, SINR=27.9 dB, CQI=13
+2025-05-14 08:32:21.095000 [PDCP] [UL] Uplink data received from UE_ID=0x8CD2, SDU size=139 bytes
+2025-05-14 08:32:21.111000 [RLC] [UL] RLC ACK received from UE_ID=0x8CD2, Seq=1348
+2025-05-14 08:32:21.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x8CD2
+2025-05-14 08:32:21.160000 [PHY] [MEAS] UE_ID=0x8CD2: RSRP=-91.7 dBm, RSRQ=-9.9 dB, SINR=29.3 dB
+2025-05-14 08:32:21.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x4541 (RNTI=0x430)
+2025-05-14 08:32:21.505000 [gNodeB] [INFO] Allocated C-RNTI=0x779 for UE_ID=0x4541
+2025-05-14 08:32:21.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x4541
+2025-05-14 08:32:21.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x4541, TBS=3603 bytes, MCS=22, RBs=40
+2025-05-14 08:32:21.570000 [PHY] [UL] PUSCH received from UE_ID=0x4541, RSRP=-88.7 dBm, SINR=20.9 dB, CQI=8
+2025-05-14 08:32:21.595000 [PDCP] [UL] Uplink data received from UE_ID=0x4541, SDU size=168 bytes
+2025-05-14 08:32:21.611000 [RLC] [UL] RLC ACK received from UE_ID=0x4541, Seq=1711
+2025-05-14 08:32:21.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x4541
+2025-05-14 08:32:21.660000 [PHY] [MEAS] UE_ID=0x4541: RSRP=-90.8 dBm, RSRQ=-10.4 dB, SINR=25.8 dB
+2025-05-14 08:32:22 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x7E33 (RNTI=0x6F0)
+2025-05-14 08:32:22.005000 [gNodeB] [INFO] Allocated C-RNTI=0x26A for UE_ID=0x7E33
+2025-05-14 08:32:22.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x7E33
+2025-05-14 08:32:22.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x7E33, TBS=3726 bytes, MCS=19, RBs=50
+2025-05-14 08:32:22.070000 [PHY] [UL] PUSCH received from UE_ID=0x7E33, RSRP=-91.0 dBm, SINR=27.4 dB, CQI=7
+2025-05-14 08:32:22.095000 [PDCP] [UL] Uplink data received from UE_ID=0x7E33, SDU size=108 bytes
+2025-05-14 08:32:22.111000 [RLC] [UL] RLC ACK received from UE_ID=0x7E33, Seq=1522
+2025-05-14 08:32:22.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x7E33
+2025-05-14 08:32:22.160000 [PHY] [MEAS] UE_ID=0x7E33: RSRP=-89.6 dBm, RSRQ=-6.7 dB, SINR=15.6 dB
+2025-05-14 08:32:22.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x8693 (RNTI=0x61B)
+2025-05-14 08:32:22.505000 [gNodeB] [INFO] Allocated C-RNTI=0x15C for UE_ID=0x8693
+2025-05-14 08:32:22.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x8693
+2025-05-14 08:32:22.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x8693, TBS=3632 bytes, MCS=17, RBs=51
+2025-05-14 08:32:22.570000 [PHY] [UL] PUSCH received from UE_ID=0x8693, RSRP=-92.4 dBm, SINR=17.2 dB, CQI=6
+2025-05-14 08:32:22.595000 [PDCP] [UL] Uplink data received from UE_ID=0x8693, SDU size=188 bytes
+2025-05-14 08:32:22.611000 [RLC] [UL] RLC ACK received from UE_ID=0x8693, Seq=1595
+2025-05-14 08:32:22.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x8693
+2025-05-14 08:32:22.660000 [PHY] [MEAS] UE_ID=0x8693: RSRP=-90.9 dBm, RSRQ=-9.0 dB, SINR=15.9 dB
+2025-05-14 08:32:23 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xAC4E (RNTI=0x40D)
+2025-05-14 08:32:23.005000 [gNodeB] [INFO] Allocated C-RNTI=0xF31 for UE_ID=0xAC4E
+2025-05-14 08:32:23.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xAC4E
+2025-05-14 08:32:23.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xAC4E, TBS=3095 bytes, MCS=17, RBs=43
+2025-05-14 08:32:23.070000 [PHY] [UL] PUSCH received from UE_ID=0xAC4E, RSRP=-80.9 dBm, SINR=29.4 dB, CQI=14
+2025-05-14 08:32:23.095000 [PDCP] [UL] Uplink data received from UE_ID=0xAC4E, SDU size=280 bytes
+2025-05-14 08:32:23.111000 [RLC] [UL] RLC ACK received from UE_ID=0xAC4E, Seq=1016
+2025-05-14 08:32:23.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xAC4E
+2025-05-14 08:32:23.160000 [PHY] [MEAS] UE_ID=0xAC4E: RSRP=-83.6 dBm, RSRQ=-14.6 dB, SINR=14.2 dB
+2025-05-14 08:32:23.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x9B8F (RNTI=0x962)
+2025-05-14 08:32:23.505000 [gNodeB] [INFO] Allocated C-RNTI=0x6E0 for UE_ID=0x9B8F
+2025-05-14 08:32:23.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x9B8F
+2025-05-14 08:32:23.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x9B8F, TBS=3164 bytes, MCS=17, RBs=57
+2025-05-14 08:32:23.570000 [PHY] [UL] PUSCH received from UE_ID=0x9B8F, RSRP=-90.8 dBm, SINR=17.3 dB, CQI=12
+2025-05-14 08:32:23.595000 [PDCP] [UL] Uplink data received from UE_ID=0x9B8F, SDU size=122 bytes
+2025-05-14 08:32:23.611000 [RLC] [UL] RLC ACK received from UE_ID=0x9B8F, Seq=1589
+2025-05-14 08:32:23.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x9B8F
+2025-05-14 08:32:23.660000 [PHY] [MEAS] UE_ID=0x9B8F: RSRP=-96.2 dBm, RSRQ=-13.0 dB, SINR=26.5 dB
+2025-05-14 08:32:24 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x4366 (RNTI=0x456)
+2025-05-14 08:32:24.005000 [gNodeB] [INFO] Allocated C-RNTI=0x520 for UE_ID=0x4366
+2025-05-14 08:32:24.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x4366
+2025-05-14 08:32:24.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x4366, TBS=3791 bytes, MCS=25, RBs=46
+2025-05-14 08:32:24.070000 [PHY] [UL] PUSCH received from UE_ID=0x4366, RSRP=-80.4 dBm, SINR=29.1 dB, CQI=15
+2025-05-14 08:32:24.095000 [PDCP] [UL] Uplink data received from UE_ID=0x4366, SDU size=119 bytes
+2025-05-14 08:32:24.111000 [RLC] [UL] RLC ACK received from UE_ID=0x4366, Seq=1615
+2025-05-14 08:32:24.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x4366
+2025-05-14 08:32:24.160000 [PHY] [MEAS] UE_ID=0x4366: RSRP=-90.9 dBm, RSRQ=-13.5 dB, SINR=12.7 dB
+2025-05-14 08:32:24.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x7D7C (RNTI=0x863)
+2025-05-14 08:32:24.505000 [gNodeB] [INFO] Allocated C-RNTI=0xB89 for UE_ID=0x7D7C
+2025-05-14 08:32:24.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x7D7C
+2025-05-14 08:32:24.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x7D7C, TBS=3666 bytes, MCS=16, RBs=40
+2025-05-14 08:32:24.570000 [PHY] [UL] PUSCH received from UE_ID=0x7D7C, RSRP=-90.7 dBm, SINR=17.4 dB, CQI=9
+2025-05-14 08:32:24.595000 [PDCP] [UL] Uplink data received from UE_ID=0x7D7C, SDU size=198 bytes
+2025-05-14 08:32:24.611000 [RLC] [UL] RLC ACK received from UE_ID=0x7D7C, Seq=1628
+2025-05-14 08:32:24.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x7D7C
+2025-05-14 08:32:24.660000 [PHY] [MEAS] UE_ID=0x7D7C: RSRP=-92.6 dBm, RSRQ=-9.1 dB, SINR=21.0 dB
+2025-05-14 08:32:25 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x603F (RNTI=0xF4A)
+2025-05-14 08:32:25.005000 [gNodeB] [INFO] Allocated C-RNTI=0xD0A for UE_ID=0x603F
+2025-05-14 08:32:25.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x603F
+2025-05-14 08:32:25.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x603F, TBS=3383 bytes, MCS=20, RBs=59
+2025-05-14 08:32:25.070000 [PHY] [UL] PUSCH received from UE_ID=0x603F, RSRP=-83.9 dBm, SINR=19.8 dB, CQI=9
+2025-05-14 08:32:25.095000 [PDCP] [UL] Uplink data received from UE_ID=0x603F, SDU size=263 bytes
+2025-05-14 08:32:25.111000 [RLC] [UL] RLC ACK received from UE_ID=0x603F, Seq=1933
+2025-05-14 08:32:25.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x603F
+2025-05-14 08:32:25.160000 [PHY] [MEAS] UE_ID=0x603F: RSRP=-90.9 dBm, RSRQ=-7.0 dB, SINR=14.5 dB
+2025-05-14 08:32:25.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x4BB4 (RNTI=0xD87)
+2025-05-14 08:32:25.505000 [gNodeB] [INFO] Allocated C-RNTI=0xE6B for UE_ID=0x4BB4
+2025-05-14 08:32:25.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x4BB4
+2025-05-14 08:32:25.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x4BB4, TBS=3150 bytes, MCS=23, RBs=49
+2025-05-14 08:32:25.570000 [PHY] [UL] PUSCH received from UE_ID=0x4BB4, RSRP=-96.1 dBm, SINR=21.7 dB, CQI=13
+2025-05-14 08:32:25.595000 [PDCP] [UL] Uplink data received from UE_ID=0x4BB4, SDU size=234 bytes
+2025-05-14 08:32:25.611000 [RLC] [UL] RLC ACK received from UE_ID=0x4BB4, Seq=1659
+2025-05-14 08:32:25.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x4BB4
+2025-05-14 08:32:25.660000 [PHY] [MEAS] UE_ID=0x4BB4: RSRP=-85.7 dBm, RSRQ=-10.0 dB, SINR=26.6 dB
+2025-05-14 08:32:26 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x3286 (RNTI=0xBBD)
+2025-05-14 08:32:26.005000 [gNodeB] [INFO] Allocated C-RNTI=0x22E for UE_ID=0x3286
+2025-05-14 08:32:26.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x3286
+2025-05-14 08:32:26.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x3286, TBS=3842 bytes, MCS=16, RBs=44
+2025-05-14 08:32:26.070000 [PHY] [UL] PUSCH received from UE_ID=0x3286, RSRP=-95.3 dBm, SINR=17.1 dB, CQI=11
+2025-05-14 08:32:26.095000 [PDCP] [UL] Uplink data received from UE_ID=0x3286, SDU size=208 bytes
+2025-05-14 08:32:26.111000 [RLC] [UL] RLC ACK received from UE_ID=0x3286, Seq=1693
+2025-05-14 08:32:26.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x3286
+2025-05-14 08:32:26.160000 [PHY] [MEAS] UE_ID=0x3286: RSRP=-84.1 dBm, RSRQ=-8.0 dB, SINR=17.6 dB
+2025-05-14 08:32:26.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x6DEE (RNTI=0x3D7)
+2025-05-14 08:32:26.505000 [gNodeB] [INFO] Allocated C-RNTI=0xE6A for UE_ID=0x6DEE
+2025-05-14 08:32:26.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x6DEE
+2025-05-14 08:32:26.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x6DEE, TBS=3040 bytes, MCS=28, RBs=55
+2025-05-14 08:32:26.570000 [PHY] [UL] PUSCH received from UE_ID=0x6DEE, RSRP=-96.8 dBm, SINR=13.2 dB, CQI=15
+2025-05-14 08:32:26.595000 [PDCP] [UL] Uplink data received from UE_ID=0x6DEE, SDU size=240 bytes
+2025-05-14 08:32:26.611000 [RLC] [UL] RLC ACK received from UE_ID=0x6DEE, Seq=1709
+2025-05-14 08:32:26.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x6DEE
+2025-05-14 08:32:26.660000 [PHY] [MEAS] UE_ID=0x6DEE: RSRP=-85.5 dBm, RSRQ=-10.5 dB, SINR=21.8 dB
+2025-05-14 08:32:27 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x449C (RNTI=0x466)
+2025-05-14 08:32:27.005000 [gNodeB] [INFO] Allocated C-RNTI=0x3A5 for UE_ID=0x449C
+2025-05-14 08:32:27.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x449C
+2025-05-14 08:32:27.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x449C, TBS=3870 bytes, MCS=17, RBs=57
+2025-05-14 08:32:27.070000 [PHY] [UL] PUSCH received from UE_ID=0x449C, RSRP=-95.1 dBm, SINR=26.9 dB, CQI=6
+2025-05-14 08:32:27.095000 [PDCP] [UL] Uplink data received from UE_ID=0x449C, SDU size=213 bytes
+2025-05-14 08:32:27.111000 [RLC] [UL] RLC ACK received from UE_ID=0x449C, Seq=1074
+2025-05-14 08:32:27.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x449C
+2025-05-14 08:32:27.160000 [PHY] [MEAS] UE_ID=0x449C: RSRP=-88.8 dBm, RSRQ=-14.7 dB, SINR=24.4 dB
+2025-05-14 08:32:27.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xD257 (RNTI=0x9D5)
+2025-05-14 08:32:27.505000 [gNodeB] [INFO] Allocated C-RNTI=0xD6E for UE_ID=0xD257
+2025-05-14 08:32:27.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xD257
+2025-05-14 08:32:27.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xD257, TBS=3915 bytes, MCS=25, RBs=41
+2025-05-14 08:32:27.570000 [PHY] [UL] PUSCH received from UE_ID=0xD257, RSRP=-93.8 dBm, SINR=10.4 dB, CQI=15
+2025-05-14 08:32:27.595000 [PDCP] [UL] Uplink data received from UE_ID=0xD257, SDU size=198 bytes
+2025-05-14 08:32:27.611000 [RLC] [UL] RLC ACK received from UE_ID=0xD257, Seq=1239
+2025-05-14 08:32:27.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xD257
+2025-05-14 08:32:27.660000 [PHY] [MEAS] UE_ID=0xD257: RSRP=-97.7 dBm, RSRQ=-10.7 dB, SINR=19.4 dB
+2025-05-14 08:32:28 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x1217 (RNTI=0x2F8)
+2025-05-14 08:32:28.005000 [gNodeB] [INFO] Allocated C-RNTI=0x373 for UE_ID=0x1217
+2025-05-14 08:32:28.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x1217
+2025-05-14 08:32:28.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x1217, TBS=3884 bytes, MCS=25, RBs=55
+2025-05-14 08:32:28.070000 [PHY] [UL] PUSCH received from UE_ID=0x1217, RSRP=-82.9 dBm, SINR=24.5 dB, CQI=13
+2025-05-14 08:32:28.095000 [PDCP] [UL] Uplink data received from UE_ID=0x1217, SDU size=127 bytes
+2025-05-14 08:32:28.111000 [RLC] [UL] RLC ACK received from UE_ID=0x1217, Seq=1955
+2025-05-14 08:32:28.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x1217
+2025-05-14 08:32:28.160000 [PHY] [MEAS] UE_ID=0x1217: RSRP=-85.3 dBm, RSRQ=-6.8 dB, SINR=25.5 dB
+2025-05-14 08:32:28.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xC077 (RNTI=0x8E6)
+2025-05-14 08:32:28.505000 [gNodeB] [INFO] Allocated C-RNTI=0x361 for UE_ID=0xC077
+2025-05-14 08:32:28.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xC077
+2025-05-14 08:32:28.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xC077, TBS=3638 bytes, MCS=14, RBs=50
+2025-05-14 08:32:28.570000 [PHY] [UL] PUSCH received from UE_ID=0xC077, RSRP=-86.5 dBm, SINR=17.5 dB, CQI=8
+2025-05-14 08:32:28.595000 [PDCP] [UL] Uplink data received from UE_ID=0xC077, SDU size=218 bytes
+2025-05-14 08:32:28.611000 [RLC] [UL] RLC ACK received from UE_ID=0xC077, Seq=1146
+2025-05-14 08:32:28.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xC077
+2025-05-14 08:32:28.660000 [PHY] [MEAS] UE_ID=0xC077: RSRP=-95.9 dBm, RSRQ=-6.5 dB, SINR=19.3 dB
+2025-05-14 08:32:29 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xF935 (RNTI=0x50E)
+2025-05-14 08:32:29.005000 [gNodeB] [INFO] Allocated C-RNTI=0xA8B for UE_ID=0xF935
+2025-05-14 08:32:29.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xF935
+2025-05-14 08:32:29.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xF935, TBS=3200 bytes, MCS=27, RBs=45
+2025-05-14 08:32:29.070000 [PHY] [UL] PUSCH received from UE_ID=0xF935, RSRP=-91.6 dBm, SINR=20.2 dB, CQI=15
+2025-05-14 08:32:29.095000 [PDCP] [UL] Uplink data received from UE_ID=0xF935, SDU size=237 bytes
+2025-05-14 08:32:29.111000 [RLC] [UL] RLC ACK received from UE_ID=0xF935, Seq=1962
+2025-05-14 08:32:29.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xF935
+2025-05-14 08:32:29.160000 [PHY] [MEAS] UE_ID=0xF935: RSRP=-89.5 dBm, RSRQ=-13.9 dB, SINR=15.1 dB
+2025-05-14 08:32:29.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xC1AE (RNTI=0xBD7)
+2025-05-14 08:32:29.505000 [gNodeB] [INFO] Allocated C-RNTI=0x548 for UE_ID=0xC1AE
+2025-05-14 08:32:29.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xC1AE
+2025-05-14 08:32:29.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xC1AE, TBS=3441 bytes, MCS=19, RBs=43
+2025-05-14 08:32:29.570000 [PHY] [UL] PUSCH received from UE_ID=0xC1AE, RSRP=-81.3 dBm, SINR=11.7 dB, CQI=12
+2025-05-14 08:32:29.595000 [PDCP] [UL] Uplink data received from UE_ID=0xC1AE, SDU size=108 bytes
+2025-05-14 08:32:29.611000 [RLC] [UL] RLC ACK received from UE_ID=0xC1AE, Seq=1885
+2025-05-14 08:32:29.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xC1AE
+2025-05-14 08:32:29.660000 [PHY] [MEAS] UE_ID=0xC1AE: RSRP=-87.7 dBm, RSRQ=-10.7 dB, SINR=16.9 dB
+2025-05-14 08:32:30 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xD3BC (RNTI=0x124)
+2025-05-14 08:32:30.005000 [gNodeB] [INFO] Allocated C-RNTI=0xADB for UE_ID=0xD3BC
+2025-05-14 08:32:30.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xD3BC
+2025-05-14 08:32:30.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xD3BC, TBS=3111 bytes, MCS=12, RBs=58
+2025-05-14 08:32:30.070000 [PHY] [UL] PUSCH received from UE_ID=0xD3BC, RSRP=-99.5 dBm, SINR=28.7 dB, CQI=13
+2025-05-14 08:32:30.095000 [PDCP] [UL] Uplink data received from UE_ID=0xD3BC, SDU size=218 bytes
+2025-05-14 08:32:30.111000 [RLC] [UL] RLC ACK received from UE_ID=0xD3BC, Seq=1000
+2025-05-14 08:32:30.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xD3BC
+2025-05-14 08:32:30.160000 [PHY] [MEAS] UE_ID=0xD3BC: RSRP=-86.5 dBm, RSRQ=-10.6 dB, SINR=23.6 dB
+2025-05-14 08:32:30.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xDAE8 (RNTI=0xB06)
+2025-05-14 08:32:30.505000 [gNodeB] [INFO] Allocated C-RNTI=0x9B0 for UE_ID=0xDAE8
+2025-05-14 08:32:30.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xDAE8
+2025-05-14 08:32:30.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xDAE8, TBS=3460 bytes, MCS=15, RBs=45
+2025-05-14 08:32:30.570000 [PHY] [UL] PUSCH received from UE_ID=0xDAE8, RSRP=-80.1 dBm, SINR=20.8 dB, CQI=14
+2025-05-14 08:32:30.595000 [PDCP] [UL] Uplink data received from UE_ID=0xDAE8, SDU size=244 bytes
+2025-05-14 08:32:30.611000 [RLC] [UL] RLC ACK received from UE_ID=0xDAE8, Seq=1565
+2025-05-14 08:32:30.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xDAE8
+2025-05-14 08:32:30.660000 [PHY] [MEAS] UE_ID=0xDAE8: RSRP=-85.9 dBm, RSRQ=-8.0 dB, SINR=18.1 dB
+2025-05-14 08:32:31 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x83E4 (RNTI=0xD8C)
+2025-05-14 08:32:31.005000 [gNodeB] [INFO] Allocated C-RNTI=0xB51 for UE_ID=0x83E4
+2025-05-14 08:32:31.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x83E4
+2025-05-14 08:32:31.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x83E4, TBS=3257 bytes, MCS=23, RBs=46
+2025-05-14 08:32:31.070000 [PHY] [UL] PUSCH received from UE_ID=0x83E4, RSRP=-89.5 dBm, SINR=22.6 dB, CQI=15
+2025-05-14 08:32:31.095000 [PDCP] [UL] Uplink data received from UE_ID=0x83E4, SDU size=181 bytes
+2025-05-14 08:32:31.111000 [RLC] [UL] RLC ACK received from UE_ID=0x83E4, Seq=1908
+2025-05-14 08:32:31.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x83E4
+2025-05-14 08:32:31.160000 [PHY] [MEAS] UE_ID=0x83E4: RSRP=-83.8 dBm, RSRQ=-9.2 dB, SINR=13.7 dB
+2025-05-14 08:32:31.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x0BA8 (RNTI=0x134)
+2025-05-14 08:32:31.505000 [gNodeB] [INFO] Allocated C-RNTI=0x08F for UE_ID=0x0BA8
+2025-05-14 08:32:31.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x0BA8
+2025-05-14 08:32:31.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x0BA8, TBS=3687 bytes, MCS=25, RBs=60
+2025-05-14 08:32:31.570000 [PHY] [UL] PUSCH received from UE_ID=0x0BA8, RSRP=-89.9 dBm, SINR=11.6 dB, CQI=5
+2025-05-14 08:32:31.595000 [PDCP] [UL] Uplink data received from UE_ID=0x0BA8, SDU size=128 bytes
+2025-05-14 08:32:31.611000 [RLC] [UL] RLC ACK received from UE_ID=0x0BA8, Seq=1725
+2025-05-14 08:32:31.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x0BA8
+2025-05-14 08:32:31.660000 [PHY] [MEAS] UE_ID=0x0BA8: RSRP=-84.9 dBm, RSRQ=-10.2 dB, SINR=15.8 dB
+2025-05-14 08:32:32 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x3D8F (RNTI=0x25A)
+2025-05-14 08:32:32.005000 [gNodeB] [INFO] Allocated C-RNTI=0xF2B for UE_ID=0x3D8F
+2025-05-14 08:32:32.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x3D8F
+2025-05-14 08:32:32.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x3D8F, TBS=3758 bytes, MCS=27, RBs=59
+2025-05-14 08:32:32.070000 [PHY] [UL] PUSCH received from UE_ID=0x3D8F, RSRP=-89.9 dBm, SINR=25.9 dB, CQI=5
+2025-05-14 08:32:32.095000 [PDCP] [UL] Uplink data received from UE_ID=0x3D8F, SDU size=104 bytes
+2025-05-14 08:32:32.111000 [RLC] [UL] RLC ACK received from UE_ID=0x3D8F, Seq=1610
+2025-05-14 08:32:32.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x3D8F
+2025-05-14 08:32:32.160000 [PHY] [MEAS] UE_ID=0x3D8F: RSRP=-86.3 dBm, RSRQ=-6.6 dB, SINR=20.9 dB
+2025-05-14 08:32:32.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x61AD (RNTI=0x4CE)
+2025-05-14 08:32:32.505000 [gNodeB] [INFO] Allocated C-RNTI=0xD03 for UE_ID=0x61AD
+2025-05-14 08:32:32.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x61AD
+2025-05-14 08:32:32.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x61AD, TBS=3933 bytes, MCS=25, RBs=42
+2025-05-14 08:32:32.570000 [PHY] [UL] PUSCH received from UE_ID=0x61AD, RSRP=-84.8 dBm, SINR=22.4 dB, CQI=9
+2025-05-14 08:32:32.595000 [PDCP] [UL] Uplink data received from UE_ID=0x61AD, SDU size=266 bytes
+2025-05-14 08:32:32.611000 [RLC] [UL] RLC ACK received from UE_ID=0x61AD, Seq=1589
+2025-05-14 08:32:32.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x61AD
+2025-05-14 08:32:32.660000 [PHY] [MEAS] UE_ID=0x61AD: RSRP=-98.4 dBm, RSRQ=-12.7 dB, SINR=17.1 dB
+2025-05-14 08:32:33 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xA121 (RNTI=0xE6C)
+2025-05-14 08:32:33.005000 [gNodeB] [INFO] Allocated C-RNTI=0x5CE for UE_ID=0xA121
+2025-05-14 08:32:33.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xA121
+2025-05-14 08:32:33.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xA121, TBS=3022 bytes, MCS=12, RBs=50
+2025-05-14 08:32:33.070000 [PHY] [UL] PUSCH received from UE_ID=0xA121, RSRP=-96.2 dBm, SINR=19.8 dB, CQI=14
+2025-05-14 08:32:33.095000 [PDCP] [UL] Uplink data received from UE_ID=0xA121, SDU size=141 bytes
+2025-05-14 08:32:33.111000 [RLC] [UL] RLC ACK received from UE_ID=0xA121, Seq=1002
+2025-05-14 08:32:33.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xA121
+2025-05-14 08:32:33.160000 [PHY] [MEAS] UE_ID=0xA121: RSRP=-94.0 dBm, RSRQ=-6.8 dB, SINR=27.1 dB
+2025-05-14 08:32:33.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x60BD (RNTI=0x961)
+2025-05-14 08:32:33.505000 [gNodeB] [INFO] Allocated C-RNTI=0x2FC for UE_ID=0x60BD
+2025-05-14 08:32:33.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x60BD
+2025-05-14 08:32:33.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x60BD, TBS=3945 bytes, MCS=23, RBs=51
+2025-05-14 08:32:33.570000 [PHY] [UL] PUSCH received from UE_ID=0x60BD, RSRP=-88.8 dBm, SINR=20.2 dB, CQI=13
+2025-05-14 08:32:33.595000 [PDCP] [UL] Uplink data received from UE_ID=0x60BD, SDU size=235 bytes
+2025-05-14 08:32:33.611000 [RLC] [UL] RLC ACK received from UE_ID=0x60BD, Seq=1284
+2025-05-14 08:32:33.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x60BD
+2025-05-14 08:32:33.660000 [PHY] [MEAS] UE_ID=0x60BD: RSRP=-83.0 dBm, RSRQ=-8.8 dB, SINR=19.5 dB
+2025-05-14 08:32:34 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xADCE (RNTI=0x1D5)
+2025-05-14 08:32:34.005000 [gNodeB] [INFO] Allocated C-RNTI=0xF17 for UE_ID=0xADCE
+2025-05-14 08:32:34.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xADCE
+2025-05-14 08:32:34.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xADCE, TBS=3804 bytes, MCS=17, RBs=58
+2025-05-14 08:32:34.070000 [PHY] [UL] PUSCH received from UE_ID=0xADCE, RSRP=-84.3 dBm, SINR=13.9 dB, CQI=5
+2025-05-14 08:32:34.095000 [PDCP] [UL] Uplink data received from UE_ID=0xADCE, SDU size=185 bytes
+2025-05-14 08:32:34.111000 [RLC] [UL] RLC ACK received from UE_ID=0xADCE, Seq=1041
+2025-05-14 08:32:34.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xADCE
+2025-05-14 08:32:34.160000 [PHY] [MEAS] UE_ID=0xADCE: RSRP=-81.1 dBm, RSRQ=-9.2 dB, SINR=22.8 dB
+2025-05-14 08:32:34.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xE9A3 (RNTI=0xC2A)
+2025-05-14 08:32:34.505000 [gNodeB] [INFO] Allocated C-RNTI=0x11D for UE_ID=0xE9A3
+2025-05-14 08:32:34.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xE9A3
+2025-05-14 08:32:34.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xE9A3, TBS=3428 bytes, MCS=14, RBs=50
+2025-05-14 08:32:34.570000 [PHY] [UL] PUSCH received from UE_ID=0xE9A3, RSRP=-91.9 dBm, SINR=26.3 dB, CQI=8
+2025-05-14 08:32:34.595000 [PDCP] [UL] Uplink data received from UE_ID=0xE9A3, SDU size=198 bytes
+2025-05-14 08:32:34.611000 [RLC] [UL] RLC ACK received from UE_ID=0xE9A3, Seq=1859
+2025-05-14 08:32:34.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xE9A3
+2025-05-14 08:32:34.660000 [PHY] [MEAS] UE_ID=0xE9A3: RSRP=-88.0 dBm, RSRQ=-14.9 dB, SINR=26.8 dB
+2025-05-14 08:32:35 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xF4DC (RNTI=0xD12)
+2025-05-14 08:32:35.005000 [gNodeB] [INFO] Allocated C-RNTI=0xD03 for UE_ID=0xF4DC
+2025-05-14 08:32:35.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xF4DC
+2025-05-14 08:32:35.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xF4DC, TBS=3075 bytes, MCS=23, RBs=45
+2025-05-14 08:32:35.070000 [PHY] [UL] PUSCH received from UE_ID=0xF4DC, RSRP=-99.2 dBm, SINR=22.8 dB, CQI=11
+2025-05-14 08:32:35.095000 [PDCP] [UL] Uplink data received from UE_ID=0xF4DC, SDU size=151 bytes
+2025-05-14 08:32:35.111000 [RLC] [UL] RLC ACK received from UE_ID=0xF4DC, Seq=1790
+2025-05-14 08:32:35.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xF4DC
+2025-05-14 08:32:35.160000 [PHY] [MEAS] UE_ID=0xF4DC: RSRP=-95.1 dBm, RSRQ=-6.1 dB, SINR=12.6 dB
+2025-05-14 08:32:35.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xAC7E (RNTI=0x684)
+2025-05-14 08:32:35.505000 [gNodeB] [INFO] Allocated C-RNTI=0xF6F for UE_ID=0xAC7E
+2025-05-14 08:32:35.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xAC7E
+2025-05-14 08:32:35.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xAC7E, TBS=3549 bytes, MCS=11, RBs=46
+2025-05-14 08:32:35.570000 [PHY] [UL] PUSCH received from UE_ID=0xAC7E, RSRP=-88.2 dBm, SINR=21.6 dB, CQI=6
+2025-05-14 08:32:35.595000 [PDCP] [UL] Uplink data received from UE_ID=0xAC7E, SDU size=148 bytes
+2025-05-14 08:32:35.611000 [RLC] [UL] RLC ACK received from UE_ID=0xAC7E, Seq=1843
+2025-05-14 08:32:35.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xAC7E
+2025-05-14 08:32:35.660000 [PHY] [MEAS] UE_ID=0xAC7E: RSRP=-98.4 dBm, RSRQ=-9.8 dB, SINR=10.8 dB
+2025-05-14 08:32:36 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xB46A (RNTI=0x8D3)
+2025-05-14 08:32:36.005000 [gNodeB] [INFO] Allocated C-RNTI=0x890 for UE_ID=0xB46A
+2025-05-14 08:32:36.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xB46A
+2025-05-14 08:32:36.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xB46A, TBS=3182 bytes, MCS=27, RBs=44
+2025-05-14 08:32:36.070000 [PHY] [UL] PUSCH received from UE_ID=0xB46A, RSRP=-93.2 dBm, SINR=23.6 dB, CQI=15
+2025-05-14 08:32:36.095000 [PDCP] [UL] Uplink data received from UE_ID=0xB46A, SDU size=124 bytes
+2025-05-14 08:32:36.111000 [RLC] [UL] RLC ACK received from UE_ID=0xB46A, Seq=1036
+2025-05-14 08:32:36.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xB46A
+2025-05-14 08:32:36.160000 [PHY] [MEAS] UE_ID=0xB46A: RSRP=-82.2 dBm, RSRQ=-8.8 dB, SINR=21.4 dB
+2025-05-14 08:32:36.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x11A7 (RNTI=0x08A)
+2025-05-14 08:32:36.505000 [gNodeB] [INFO] Allocated C-RNTI=0x723 for UE_ID=0x11A7
+2025-05-14 08:32:36.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x11A7
+2025-05-14 08:32:36.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x11A7, TBS=3653 bytes, MCS=11, RBs=51
+2025-05-14 08:32:36.570000 [PHY] [UL] PUSCH received from UE_ID=0x11A7, RSRP=-83.6 dBm, SINR=23.1 dB, CQI=9
+2025-05-14 08:32:36.595000 [PDCP] [UL] Uplink data received from UE_ID=0x11A7, SDU size=187 bytes
+2025-05-14 08:32:36.611000 [RLC] [UL] RLC ACK received from UE_ID=0x11A7, Seq=1323
+2025-05-14 08:32:36.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x11A7
+2025-05-14 08:32:36.660000 [PHY] [MEAS] UE_ID=0x11A7: RSRP=-92.3 dBm, RSRQ=-7.8 dB, SINR=21.8 dB
+2025-05-14 08:32:37 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xCA6D (RNTI=0x841)
+2025-05-14 08:32:37.005000 [gNodeB] [INFO] Allocated C-RNTI=0x9B3 for UE_ID=0xCA6D
+2025-05-14 08:32:37.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xCA6D
+2025-05-14 08:32:37.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xCA6D, TBS=3393 bytes, MCS=17, RBs=41
+2025-05-14 08:32:37.070000 [PHY] [UL] PUSCH received from UE_ID=0xCA6D, RSRP=-94.5 dBm, SINR=18.6 dB, CQI=12
+2025-05-14 08:32:37.095000 [PDCP] [UL] Uplink data received from UE_ID=0xCA6D, SDU size=211 bytes
+2025-05-14 08:32:37.111000 [RLC] [UL] RLC ACK received from UE_ID=0xCA6D, Seq=1456
+2025-05-14 08:32:37.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xCA6D
+2025-05-14 08:32:37.160000 [PHY] [MEAS] UE_ID=0xCA6D: RSRP=-81.9 dBm, RSRQ=-13.9 dB, SINR=28.5 dB
+2025-05-14 08:32:37.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x37E7 (RNTI=0xFF2)
+2025-05-14 08:32:37.505000 [gNodeB] [INFO] Allocated C-RNTI=0x61D for UE_ID=0x37E7
+2025-05-14 08:32:37.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x37E7
+2025-05-14 08:32:37.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x37E7, TBS=3137 bytes, MCS=22, RBs=50
+2025-05-14 08:32:37.570000 [PHY] [UL] PUSCH received from UE_ID=0x37E7, RSRP=-85.2 dBm, SINR=28.9 dB, CQI=12
+2025-05-14 08:32:37.595000 [PDCP] [UL] Uplink data received from UE_ID=0x37E7, SDU size=266 bytes
+2025-05-14 08:32:37.611000 [RLC] [UL] RLC ACK received from UE_ID=0x37E7, Seq=1218
+2025-05-14 08:32:37.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x37E7
+2025-05-14 08:32:37.660000 [PHY] [MEAS] UE_ID=0x37E7: RSRP=-84.2 dBm, RSRQ=-10.4 dB, SINR=17.1 dB
+2025-05-14 08:32:38 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xB532 (RNTI=0x93F)
+2025-05-14 08:32:38.005000 [gNodeB] [INFO] Allocated C-RNTI=0x8FD for UE_ID=0xB532
+2025-05-14 08:32:38.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xB532
+2025-05-14 08:32:38.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xB532, TBS=3086 bytes, MCS=11, RBs=42
+2025-05-14 08:32:38.070000 [PHY] [UL] PUSCH received from UE_ID=0xB532, RSRP=-84.6 dBm, SINR=21.5 dB, CQI=8
+2025-05-14 08:32:38.095000 [PDCP] [UL] Uplink data received from UE_ID=0xB532, SDU size=136 bytes
+2025-05-14 08:32:38.111000 [RLC] [UL] RLC ACK received from UE_ID=0xB532, Seq=1754
+2025-05-14 08:32:38.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xB532
+2025-05-14 08:32:38.160000 [PHY] [MEAS] UE_ID=0xB532: RSRP=-83.4 dBm, RSRQ=-13.1 dB, SINR=15.0 dB
+2025-05-14 08:32:38.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x5F1B (RNTI=0xB22)
+2025-05-14 08:32:38.505000 [gNodeB] [INFO] Allocated C-RNTI=0x7BA for UE_ID=0x5F1B
+2025-05-14 08:32:38.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x5F1B
+2025-05-14 08:32:38.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x5F1B, TBS=3957 bytes, MCS=20, RBs=58
+2025-05-14 08:32:38.570000 [PHY] [UL] PUSCH received from UE_ID=0x5F1B, RSRP=-90.0 dBm, SINR=11.0 dB, CQI=15
+2025-05-14 08:32:38.595000 [PDCP] [UL] Uplink data received from UE_ID=0x5F1B, SDU size=177 bytes
+2025-05-14 08:32:38.611000 [RLC] [UL] RLC ACK received from UE_ID=0x5F1B, Seq=1235
+2025-05-14 08:32:38.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x5F1B
+2025-05-14 08:32:38.660000 [PHY] [MEAS] UE_ID=0x5F1B: RSRP=-95.1 dBm, RSRQ=-6.0 dB, SINR=16.2 dB
+2025-05-14 08:32:39 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x1425 (RNTI=0xD1F)
+2025-05-14 08:32:39.005000 [gNodeB] [INFO] Allocated C-RNTI=0x5E0 for UE_ID=0x1425
+2025-05-14 08:32:39.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x1425
+2025-05-14 08:32:39.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x1425, TBS=3470 bytes, MCS=26, RBs=53
+2025-05-14 08:32:39.070000 [PHY] [UL] PUSCH received from UE_ID=0x1425, RSRP=-89.0 dBm, SINR=20.4 dB, CQI=9
+2025-05-14 08:32:39.095000 [PDCP] [UL] Uplink data received from UE_ID=0x1425, SDU size=186 bytes
+2025-05-14 08:32:39.111000 [RLC] [UL] RLC ACK received from UE_ID=0x1425, Seq=1873
+2025-05-14 08:32:39.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x1425
+2025-05-14 08:32:39.160000 [PHY] [MEAS] UE_ID=0x1425: RSRP=-95.6 dBm, RSRQ=-9.3 dB, SINR=17.9 dB
+2025-05-14 08:32:39.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x9447 (RNTI=0x82E)
+2025-05-14 08:32:39.505000 [gNodeB] [INFO] Allocated C-RNTI=0x7D3 for UE_ID=0x9447
+2025-05-14 08:32:39.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x9447
+2025-05-14 08:32:39.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x9447, TBS=3183 bytes, MCS=28, RBs=48
+2025-05-14 08:32:39.570000 [PHY] [UL] PUSCH received from UE_ID=0x9447, RSRP=-81.0 dBm, SINR=17.2 dB, CQI=10
+2025-05-14 08:32:39.595000 [PDCP] [UL] Uplink data received from UE_ID=0x9447, SDU size=115 bytes
+2025-05-14 08:32:39.611000 [RLC] [UL] RLC ACK received from UE_ID=0x9447, Seq=1589
+2025-05-14 08:32:39.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x9447
+2025-05-14 08:32:39.660000 [PHY] [MEAS] UE_ID=0x9447: RSRP=-87.7 dBm, RSRQ=-11.3 dB, SINR=10.9 dB
+2025-05-14 08:32:40 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x9D30 (RNTI=0x5A2)
+2025-05-14 08:32:40.005000 [gNodeB] [INFO] Allocated C-RNTI=0xC9D for UE_ID=0x9D30
+2025-05-14 08:32:40.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x9D30
+2025-05-14 08:32:40.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x9D30, TBS=3429 bytes, MCS=11, RBs=40
+2025-05-14 08:32:40.070000 [PHY] [UL] PUSCH received from UE_ID=0x9D30, RSRP=-95.6 dBm, SINR=25.4 dB, CQI=13
+2025-05-14 08:32:40.095000 [PDCP] [UL] Uplink data received from UE_ID=0x9D30, SDU size=166 bytes
+2025-05-14 08:32:40.111000 [RLC] [UL] RLC ACK received from UE_ID=0x9D30, Seq=1106
+2025-05-14 08:32:40.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x9D30
+2025-05-14 08:32:40.160000 [PHY] [MEAS] UE_ID=0x9D30: RSRP=-95.4 dBm, RSRQ=-8.1 dB, SINR=15.2 dB
+2025-05-14 08:32:40.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x356E (RNTI=0xB3C)
+2025-05-14 08:32:40.505000 [gNodeB] [INFO] Allocated C-RNTI=0x1B6 for UE_ID=0x356E
+2025-05-14 08:32:40.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x356E
+2025-05-14 08:32:40.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x356E, TBS=3330 bytes, MCS=23, RBs=44
+2025-05-14 08:32:40.570000 [PHY] [UL] PUSCH received from UE_ID=0x356E, RSRP=-82.5 dBm, SINR=14.8 dB, CQI=13
+2025-05-14 08:32:40.595000 [PDCP] [UL] Uplink data received from UE_ID=0x356E, SDU size=177 bytes
+2025-05-14 08:32:40.611000 [RLC] [UL] RLC ACK received from UE_ID=0x356E, Seq=1200
+2025-05-14 08:32:40.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x356E
+2025-05-14 08:32:40.660000 [PHY] [MEAS] UE_ID=0x356E: RSRP=-97.3 dBm, RSRQ=-8.4 dB, SINR=26.9 dB
+2025-05-14 08:32:41 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x747E (RNTI=0xF20)
+2025-05-14 08:32:41.005000 [gNodeB] [INFO] Allocated C-RNTI=0x9D4 for UE_ID=0x747E
+2025-05-14 08:32:41.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x747E
+2025-05-14 08:32:41.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x747E, TBS=3702 bytes, MCS=19, RBs=56
+2025-05-14 08:32:41.070000 [PHY] [UL] PUSCH received from UE_ID=0x747E, RSRP=-88.8 dBm, SINR=18.9 dB, CQI=6
+2025-05-14 08:32:41.095000 [PDCP] [UL] Uplink data received from UE_ID=0x747E, SDU size=205 bytes
+2025-05-14 08:32:41.111000 [RLC] [UL] RLC ACK received from UE_ID=0x747E, Seq=1091
+2025-05-14 08:32:41.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x747E
+2025-05-14 08:32:41.160000 [PHY] [MEAS] UE_ID=0x747E: RSRP=-99.7 dBm, RSRQ=-12.8 dB, SINR=25.8 dB
+2025-05-14 08:32:41.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x2471 (RNTI=0x79D)
+2025-05-14 08:32:41.505000 [gNodeB] [INFO] Allocated C-RNTI=0x469 for UE_ID=0x2471
+2025-05-14 08:32:41.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x2471
+2025-05-14 08:32:41.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x2471, TBS=3129 bytes, MCS=12, RBs=48
+2025-05-14 08:32:41.570000 [PHY] [UL] PUSCH received from UE_ID=0x2471, RSRP=-97.4 dBm, SINR=14.0 dB, CQI=6
+2025-05-14 08:32:41.595000 [PDCP] [UL] Uplink data received from UE_ID=0x2471, SDU size=279 bytes
+2025-05-14 08:32:41.611000 [RLC] [UL] RLC ACK received from UE_ID=0x2471, Seq=1604
+2025-05-14 08:32:41.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x2471
+2025-05-14 08:32:41.660000 [PHY] [MEAS] UE_ID=0x2471: RSRP=-92.8 dBm, RSRQ=-9.4 dB, SINR=14.3 dB
+2025-05-14 08:32:42 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xDE3A (RNTI=0xC25)
+2025-05-14 08:32:42.005000 [gNodeB] [INFO] Allocated C-RNTI=0x8D0 for UE_ID=0xDE3A
+2025-05-14 08:32:42.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xDE3A
+2025-05-14 08:32:42.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xDE3A, TBS=3863 bytes, MCS=24, RBs=45
+2025-05-14 08:32:42.070000 [PHY] [UL] PUSCH received from UE_ID=0xDE3A, RSRP=-97.1 dBm, SINR=15.8 dB, CQI=11
+2025-05-14 08:32:42.095000 [PDCP] [UL] Uplink data received from UE_ID=0xDE3A, SDU size=275 bytes
+2025-05-14 08:32:42.111000 [RLC] [UL] RLC ACK received from UE_ID=0xDE3A, Seq=1732
+2025-05-14 08:32:42.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xDE3A
+2025-05-14 08:32:42.160000 [PHY] [MEAS] UE_ID=0xDE3A: RSRP=-87.7 dBm, RSRQ=-12.1 dB, SINR=12.4 dB
+2025-05-14 08:32:42.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xA225 (RNTI=0xC4C)
+2025-05-14 08:32:42.505000 [gNodeB] [INFO] Allocated C-RNTI=0xA3D for UE_ID=0xA225
+2025-05-14 08:32:42.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xA225
+2025-05-14 08:32:42.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xA225, TBS=3622 bytes, MCS=16, RBs=49
+2025-05-14 08:32:42.570000 [PHY] [UL] PUSCH received from UE_ID=0xA225, RSRP=-97.9 dBm, SINR=29.4 dB, CQI=7
+2025-05-14 08:32:42.595000 [PDCP] [UL] Uplink data received from UE_ID=0xA225, SDU size=182 bytes
+2025-05-14 08:32:42.611000 [RLC] [UL] RLC ACK received from UE_ID=0xA225, Seq=1274
+2025-05-14 08:32:42.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xA225
+2025-05-14 08:32:42.660000 [PHY] [MEAS] UE_ID=0xA225: RSRP=-86.4 dBm, RSRQ=-6.8 dB, SINR=15.0 dB
+2025-05-14 08:32:43 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x456B (RNTI=0xA1B)
+2025-05-14 08:32:43.005000 [gNodeB] [INFO] Allocated C-RNTI=0xC1D for UE_ID=0x456B
+2025-05-14 08:32:43.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x456B
+2025-05-14 08:32:43.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x456B, TBS=3495 bytes, MCS=15, RBs=55
+2025-05-14 08:32:43.070000 [PHY] [UL] PUSCH received from UE_ID=0x456B, RSRP=-83.8 dBm, SINR=24.0 dB, CQI=13
+2025-05-14 08:32:43.095000 [PDCP] [UL] Uplink data received from UE_ID=0x456B, SDU size=127 bytes
+2025-05-14 08:32:43.111000 [RLC] [UL] RLC ACK received from UE_ID=0x456B, Seq=1614
+2025-05-14 08:32:43.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x456B
+2025-05-14 08:32:43.160000 [PHY] [MEAS] UE_ID=0x456B: RSRP=-80.4 dBm, RSRQ=-8.9 dB, SINR=14.0 dB
+2025-05-14 08:32:43.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x0E98 (RNTI=0xF87)
+2025-05-14 08:32:43.505000 [gNodeB] [INFO] Allocated C-RNTI=0xCDB for UE_ID=0x0E98
+2025-05-14 08:32:43.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x0E98
+2025-05-14 08:32:43.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x0E98, TBS=3804 bytes, MCS=15, RBs=48
+2025-05-14 08:32:43.570000 [PHY] [UL] PUSCH received from UE_ID=0x0E98, RSRP=-90.1 dBm, SINR=23.8 dB, CQI=6
+2025-05-14 08:32:43.595000 [PDCP] [UL] Uplink data received from UE_ID=0x0E98, SDU size=129 bytes
+2025-05-14 08:32:43.611000 [RLC] [UL] RLC ACK received from UE_ID=0x0E98, Seq=1484
+2025-05-14 08:32:43.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x0E98
+2025-05-14 08:32:43.660000 [PHY] [MEAS] UE_ID=0x0E98: RSRP=-81.1 dBm, RSRQ=-9.8 dB, SINR=27.8 dB
+2025-05-14 08:32:44 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x0C20 (RNTI=0x6E3)
+2025-05-14 08:32:44.005000 [gNodeB] [INFO] Allocated C-RNTI=0x4A8 for UE_ID=0x0C20
+2025-05-14 08:32:44.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x0C20
+2025-05-14 08:32:44.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x0C20, TBS=3330 bytes, MCS=20, RBs=51
+2025-05-14 08:32:44.070000 [PHY] [UL] PUSCH received from UE_ID=0x0C20, RSRP=-94.1 dBm, SINR=16.6 dB, CQI=6
+2025-05-14 08:32:44.095000 [PDCP] [UL] Uplink data received from UE_ID=0x0C20, SDU size=130 bytes
+2025-05-14 08:32:44.111000 [RLC] [UL] RLC ACK received from UE_ID=0x0C20, Seq=1909
+2025-05-14 08:32:44.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x0C20
+2025-05-14 08:32:44.160000 [PHY] [MEAS] UE_ID=0x0C20: RSRP=-85.8 dBm, RSRQ=-10.3 dB, SINR=17.2 dB
+2025-05-14 08:32:44.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x524C (RNTI=0x2AE)
+2025-05-14 08:32:44.505000 [gNodeB] [INFO] Allocated C-RNTI=0xD55 for UE_ID=0x524C
+2025-05-14 08:32:44.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x524C
+2025-05-14 08:32:44.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x524C, TBS=3705 bytes, MCS=16, RBs=40
+2025-05-14 08:32:44.570000 [PHY] [UL] PUSCH received from UE_ID=0x524C, RSRP=-83.7 dBm, SINR=10.1 dB, CQI=11
+2025-05-14 08:32:44.595000 [PDCP] [UL] Uplink data received from UE_ID=0x524C, SDU size=204 bytes
+2025-05-14 08:32:44.611000 [RLC] [UL] RLC ACK received from UE_ID=0x524C, Seq=1754
+2025-05-14 08:32:44.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x524C
+2025-05-14 08:32:44.660000 [PHY] [MEAS] UE_ID=0x524C: RSRP=-88.8 dBm, RSRQ=-7.9 dB, SINR=18.5 dB
+2025-05-14 08:32:45 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x396C (RNTI=0x063)
+2025-05-14 08:32:45.005000 [gNodeB] [INFO] Allocated C-RNTI=0x85D for UE_ID=0x396C
+2025-05-14 08:32:45.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x396C
+2025-05-14 08:32:45.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x396C, TBS=3407 bytes, MCS=14, RBs=53
+2025-05-14 08:32:45.070000 [PHY] [UL] PUSCH received from UE_ID=0x396C, RSRP=-94.3 dBm, SINR=28.9 dB, CQI=13
+2025-05-14 08:32:45.095000 [PDCP] [UL] Uplink data received from UE_ID=0x396C, SDU size=268 bytes
+2025-05-14 08:32:45.111000 [RLC] [UL] RLC ACK received from UE_ID=0x396C, Seq=1820
+2025-05-14 08:32:45.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x396C
+2025-05-14 08:32:45.160000 [PHY] [MEAS] UE_ID=0x396C: RSRP=-82.2 dBm, RSRQ=-7.1 dB, SINR=25.5 dB
+2025-05-14 08:32:45.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xDC3A (RNTI=0xF99)
+2025-05-14 08:32:45.505000 [gNodeB] [INFO] Allocated C-RNTI=0x70C for UE_ID=0xDC3A
+2025-05-14 08:32:45.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xDC3A
+2025-05-14 08:32:45.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xDC3A, TBS=3589 bytes, MCS=13, RBs=46
+2025-05-14 08:32:45.570000 [PHY] [UL] PUSCH received from UE_ID=0xDC3A, RSRP=-93.7 dBm, SINR=22.7 dB, CQI=11
+2025-05-14 08:32:45.595000 [PDCP] [UL] Uplink data received from UE_ID=0xDC3A, SDU size=174 bytes
+2025-05-14 08:32:45.611000 [RLC] [UL] RLC ACK received from UE_ID=0xDC3A, Seq=1383
+2025-05-14 08:32:45.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xDC3A
+2025-05-14 08:32:45.660000 [PHY] [MEAS] UE_ID=0xDC3A: RSRP=-96.9 dBm, RSRQ=-12.1 dB, SINR=21.2 dB
+2025-05-14 08:32:46 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x56B7 (RNTI=0x0E0)
+2025-05-14 08:32:46.005000 [gNodeB] [INFO] Allocated C-RNTI=0xE69 for UE_ID=0x56B7
+2025-05-14 08:32:46.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x56B7
+2025-05-14 08:32:46.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x56B7, TBS=3152 bytes, MCS=20, RBs=47
+2025-05-14 08:32:46.070000 [PHY] [UL] PUSCH received from UE_ID=0x56B7, RSRP=-91.7 dBm, SINR=27.0 dB, CQI=5
+2025-05-14 08:32:46.095000 [PDCP] [UL] Uplink data received from UE_ID=0x56B7, SDU size=268 bytes
+2025-05-14 08:32:46.111000 [RLC] [UL] RLC ACK received from UE_ID=0x56B7, Seq=1809
+2025-05-14 08:32:46.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x56B7
+2025-05-14 08:32:46.160000 [PHY] [MEAS] UE_ID=0x56B7: RSRP=-96.8 dBm, RSRQ=-13.6 dB, SINR=15.7 dB
+2025-05-14 08:32:46.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xCC71 (RNTI=0x25D)
+2025-05-14 08:32:46.505000 [gNodeB] [INFO] Allocated C-RNTI=0x4EF for UE_ID=0xCC71
+2025-05-14 08:32:46.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xCC71
+2025-05-14 08:32:46.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xCC71, TBS=3908 bytes, MCS=21, RBs=53
+2025-05-14 08:32:46.570000 [PHY] [UL] PUSCH received from UE_ID=0xCC71, RSRP=-83.1 dBm, SINR=16.3 dB, CQI=6
+2025-05-14 08:32:46.595000 [PDCP] [UL] Uplink data received from UE_ID=0xCC71, SDU size=194 bytes
+2025-05-14 08:32:46.611000 [RLC] [UL] RLC ACK received from UE_ID=0xCC71, Seq=1660
+2025-05-14 08:32:46.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xCC71
+2025-05-14 08:32:46.660000 [PHY] [MEAS] UE_ID=0xCC71: RSRP=-96.3 dBm, RSRQ=-11.7 dB, SINR=13.9 dB
+2025-05-14 08:32:47 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x7E30 (RNTI=0x15B)
+2025-05-14 08:32:47.005000 [gNodeB] [INFO] Allocated C-RNTI=0x9A8 for UE_ID=0x7E30
+2025-05-14 08:32:47.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x7E30
+2025-05-14 08:32:47.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x7E30, TBS=3062 bytes, MCS=19, RBs=54
+2025-05-14 08:32:47.070000 [PHY] [UL] PUSCH received from UE_ID=0x7E30, RSRP=-96.8 dBm, SINR=13.4 dB, CQI=15
+2025-05-14 08:32:47.095000 [PDCP] [UL] Uplink data received from UE_ID=0x7E30, SDU size=209 bytes
+2025-05-14 08:32:47.111000 [RLC] [UL] RLC ACK received from UE_ID=0x7E30, Seq=1827
+2025-05-14 08:32:47.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x7E30
+2025-05-14 08:32:47.160000 [PHY] [MEAS] UE_ID=0x7E30: RSRP=-85.8 dBm, RSRQ=-13.6 dB, SINR=15.4 dB
+2025-05-14 08:32:47.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x676D (RNTI=0x706)
+2025-05-14 08:32:47.505000 [gNodeB] [INFO] Allocated C-RNTI=0xFCD for UE_ID=0x676D
+2025-05-14 08:32:47.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x676D
+2025-05-14 08:32:47.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x676D, TBS=3752 bytes, MCS=24, RBs=54
+2025-05-14 08:32:47.570000 [PHY] [UL] PUSCH received from UE_ID=0x676D, RSRP=-84.1 dBm, SINR=27.8 dB, CQI=13
+2025-05-14 08:32:47.595000 [PDCP] [UL] Uplink data received from UE_ID=0x676D, SDU size=180 bytes
+2025-05-14 08:32:47.611000 [RLC] [UL] RLC ACK received from UE_ID=0x676D, Seq=1447
+2025-05-14 08:32:47.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x676D
+2025-05-14 08:32:47.660000 [PHY] [MEAS] UE_ID=0x676D: RSRP=-94.8 dBm, RSRQ=-9.0 dB, SINR=17.6 dB
+2025-05-14 08:32:48 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x8768 (RNTI=0x361)
+2025-05-14 08:32:48.005000 [gNodeB] [INFO] Allocated C-RNTI=0xB3A for UE_ID=0x8768
+2025-05-14 08:32:48.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x8768
+2025-05-14 08:32:48.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x8768, TBS=3124 bytes, MCS=27, RBs=47
+2025-05-14 08:32:48.070000 [PHY] [UL] PUSCH received from UE_ID=0x8768, RSRP=-98.5 dBm, SINR=21.8 dB, CQI=13
+2025-05-14 08:32:48.095000 [PDCP] [UL] Uplink data received from UE_ID=0x8768, SDU size=149 bytes
+2025-05-14 08:32:48.111000 [RLC] [UL] RLC ACK received from UE_ID=0x8768, Seq=1141
+2025-05-14 08:32:48.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x8768
+2025-05-14 08:32:48.160000 [PHY] [MEAS] UE_ID=0x8768: RSRP=-86.0 dBm, RSRQ=-11.2 dB, SINR=17.9 dB
+2025-05-14 08:32:48.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xC2AB (RNTI=0x29C)
+2025-05-14 08:32:48.505000 [gNodeB] [INFO] Allocated C-RNTI=0x815 for UE_ID=0xC2AB
+2025-05-14 08:32:48.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xC2AB
+2025-05-14 08:32:48.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xC2AB, TBS=3384 bytes, MCS=19, RBs=42
+2025-05-14 08:32:48.570000 [PHY] [UL] PUSCH received from UE_ID=0xC2AB, RSRP=-99.5 dBm, SINR=15.5 dB, CQI=11
+2025-05-14 08:32:48.595000 [PDCP] [UL] Uplink data received from UE_ID=0xC2AB, SDU size=257 bytes
+2025-05-14 08:32:48.611000 [RLC] [UL] RLC ACK received from UE_ID=0xC2AB, Seq=1151
+2025-05-14 08:32:48.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xC2AB
+2025-05-14 08:32:48.660000 [PHY] [MEAS] UE_ID=0xC2AB: RSRP=-84.3 dBm, RSRQ=-6.1 dB, SINR=19.7 dB
+2025-05-14 08:32:49 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xDAAE (RNTI=0x2D7)
+2025-05-14 08:32:49.005000 [gNodeB] [INFO] Allocated C-RNTI=0x26F for UE_ID=0xDAAE
+2025-05-14 08:32:49.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xDAAE
+2025-05-14 08:32:49.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xDAAE, TBS=3587 bytes, MCS=17, RBs=48
+2025-05-14 08:32:49.070000 [PHY] [UL] PUSCH received from UE_ID=0xDAAE, RSRP=-93.6 dBm, SINR=27.3 dB, CQI=14
+2025-05-14 08:32:49.095000 [PDCP] [UL] Uplink data received from UE_ID=0xDAAE, SDU size=197 bytes
+2025-05-14 08:32:49.111000 [RLC] [UL] RLC ACK received from UE_ID=0xDAAE, Seq=1357
+2025-05-14 08:32:49.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xDAAE
+2025-05-14 08:32:49.160000 [PHY] [MEAS] UE_ID=0xDAAE: RSRP=-95.2 dBm, RSRQ=-5.2 dB, SINR=18.4 dB
+2025-05-14 08:32:49.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x1ECF (RNTI=0xADE)
+2025-05-14 08:32:49.505000 [gNodeB] [INFO] Allocated C-RNTI=0x5FC for UE_ID=0x1ECF
+2025-05-14 08:32:49.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x1ECF
+2025-05-14 08:32:49.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x1ECF, TBS=3121 bytes, MCS=16, RBs=40
+2025-05-14 08:32:49.570000 [PHY] [UL] PUSCH received from UE_ID=0x1ECF, RSRP=-98.0 dBm, SINR=23.2 dB, CQI=15
+2025-05-14 08:32:49.595000 [PDCP] [UL] Uplink data received from UE_ID=0x1ECF, SDU size=272 bytes
+2025-05-14 08:32:49.611000 [RLC] [UL] RLC ACK received from UE_ID=0x1ECF, Seq=1184
+2025-05-14 08:32:49.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x1ECF
+2025-05-14 08:32:49.660000 [PHY] [MEAS] UE_ID=0x1ECF: RSRP=-98.3 dBm, RSRQ=-8.2 dB, SINR=10.5 dB
+2025-05-14 08:32:50 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xCBF5 (RNTI=0x264)
+2025-05-14 08:32:50.005000 [gNodeB] [INFO] Allocated C-RNTI=0xC69 for UE_ID=0xCBF5
+2025-05-14 08:32:50.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xCBF5
+2025-05-14 08:32:50.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xCBF5, TBS=3472 bytes, MCS=19, RBs=45
+2025-05-14 08:32:50.070000 [PHY] [UL] PUSCH received from UE_ID=0xCBF5, RSRP=-91.2 dBm, SINR=28.7 dB, CQI=15
+2025-05-14 08:32:50.095000 [PDCP] [UL] Uplink data received from UE_ID=0xCBF5, SDU size=122 bytes
+2025-05-14 08:32:50.111000 [RLC] [UL] RLC ACK received from UE_ID=0xCBF5, Seq=1067
+2025-05-14 08:32:50.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xCBF5
+2025-05-14 08:32:50.160000 [PHY] [MEAS] UE_ID=0xCBF5: RSRP=-87.7 dBm, RSRQ=-8.7 dB, SINR=29.8 dB
+2025-05-14 08:32:50.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xD17F (RNTI=0x27D)
+2025-05-14 08:32:50.505000 [gNodeB] [INFO] Allocated C-RNTI=0xA44 for UE_ID=0xD17F
+2025-05-14 08:32:50.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xD17F
+2025-05-14 08:32:50.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xD17F, TBS=3693 bytes, MCS=25, RBs=50
+2025-05-14 08:32:50.570000 [PHY] [UL] PUSCH received from UE_ID=0xD17F, RSRP=-92.4 dBm, SINR=11.5 dB, CQI=8
+2025-05-14 08:32:50.595000 [PDCP] [UL] Uplink data received from UE_ID=0xD17F, SDU size=186 bytes
+2025-05-14 08:32:50.611000 [RLC] [UL] RLC ACK received from UE_ID=0xD17F, Seq=1916
+2025-05-14 08:32:50.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xD17F
+2025-05-14 08:32:50.660000 [PHY] [MEAS] UE_ID=0xD17F: RSRP=-89.9 dBm, RSRQ=-9.1 dB, SINR=20.1 dB
+2025-05-14 08:32:51 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x4EDA (RNTI=0xE4F)
+2025-05-14 08:32:51.005000 [gNodeB] [INFO] Allocated C-RNTI=0x019 for UE_ID=0x4EDA
+2025-05-14 08:32:51.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x4EDA
+2025-05-14 08:32:51.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x4EDA, TBS=3980 bytes, MCS=15, RBs=41
+2025-05-14 08:32:51.070000 [PHY] [UL] PUSCH received from UE_ID=0x4EDA, RSRP=-91.8 dBm, SINR=17.1 dB, CQI=5
+2025-05-14 08:32:51.095000 [PDCP] [UL] Uplink data received from UE_ID=0x4EDA, SDU size=214 bytes
+2025-05-14 08:32:51.111000 [RLC] [UL] RLC ACK received from UE_ID=0x4EDA, Seq=1231
+2025-05-14 08:32:51.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x4EDA
+2025-05-14 08:32:51.160000 [PHY] [MEAS] UE_ID=0x4EDA: RSRP=-94.1 dBm, RSRQ=-6.0 dB, SINR=22.6 dB
+2025-05-14 08:32:51.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xEB1A (RNTI=0x961)
+2025-05-14 08:32:51.505000 [gNodeB] [INFO] Allocated C-RNTI=0x045 for UE_ID=0xEB1A
+2025-05-14 08:32:51.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xEB1A
+2025-05-14 08:32:51.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xEB1A, TBS=3479 bytes, MCS=14, RBs=55
+2025-05-14 08:32:51.570000 [PHY] [UL] PUSCH received from UE_ID=0xEB1A, RSRP=-90.1 dBm, SINR=13.8 dB, CQI=14
+2025-05-14 08:32:51.595000 [PDCP] [UL] Uplink data received from UE_ID=0xEB1A, SDU size=111 bytes
+2025-05-14 08:32:51.611000 [RLC] [UL] RLC ACK received from UE_ID=0xEB1A, Seq=1322
+2025-05-14 08:32:51.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xEB1A
+2025-05-14 08:32:51.660000 [PHY] [MEAS] UE_ID=0xEB1A: RSRP=-82.8 dBm, RSRQ=-5.1 dB, SINR=27.4 dB
+2025-05-14 08:32:52 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x9B84 (RNTI=0x8E6)
+2025-05-14 08:32:52.005000 [gNodeB] [INFO] Allocated C-RNTI=0x6C2 for UE_ID=0x9B84
+2025-05-14 08:32:52.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x9B84
+2025-05-14 08:32:52.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x9B84, TBS=3378 bytes, MCS=25, RBs=40
+2025-05-14 08:32:52.070000 [PHY] [UL] PUSCH received from UE_ID=0x9B84, RSRP=-86.3 dBm, SINR=21.0 dB, CQI=7
+2025-05-14 08:32:52.095000 [PDCP] [UL] Uplink data received from UE_ID=0x9B84, SDU size=269 bytes
+2025-05-14 08:32:52.111000 [RLC] [UL] RLC ACK received from UE_ID=0x9B84, Seq=1260
+2025-05-14 08:32:52.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x9B84
+2025-05-14 08:32:52.160000 [PHY] [MEAS] UE_ID=0x9B84: RSRP=-97.2 dBm, RSRQ=-12.1 dB, SINR=27.1 dB
+2025-05-14 08:32:52.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x1F1E (RNTI=0xDE8)
+2025-05-14 08:32:52.505000 [gNodeB] [INFO] Allocated C-RNTI=0x333 for UE_ID=0x1F1E
+2025-05-14 08:32:52.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x1F1E
+2025-05-14 08:32:52.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x1F1E, TBS=3384 bytes, MCS=19, RBs=51
+2025-05-14 08:32:52.570000 [PHY] [UL] PUSCH received from UE_ID=0x1F1E, RSRP=-95.4 dBm, SINR=11.3 dB, CQI=13
+2025-05-14 08:32:52.595000 [PDCP] [UL] Uplink data received from UE_ID=0x1F1E, SDU size=251 bytes
+2025-05-14 08:32:52.611000 [RLC] [UL] RLC ACK received from UE_ID=0x1F1E, Seq=1066
+2025-05-14 08:32:52.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x1F1E
+2025-05-14 08:32:52.660000 [PHY] [MEAS] UE_ID=0x1F1E: RSRP=-95.9 dBm, RSRQ=-5.5 dB, SINR=21.0 dB
+2025-05-14 08:32:53 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xFA19 (RNTI=0xF18)
+2025-05-14 08:32:53.005000 [gNodeB] [INFO] Allocated C-RNTI=0xAE3 for UE_ID=0xFA19
+2025-05-14 08:32:53.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xFA19
+2025-05-14 08:32:53.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xFA19, TBS=3240 bytes, MCS=17, RBs=52
+2025-05-14 08:32:53.070000 [PHY] [UL] PUSCH received from UE_ID=0xFA19, RSRP=-83.4 dBm, SINR=19.1 dB, CQI=5
+2025-05-14 08:32:53.095000 [PDCP] [UL] Uplink data received from UE_ID=0xFA19, SDU size=145 bytes
+2025-05-14 08:32:53.111000 [RLC] [UL] RLC ACK received from UE_ID=0xFA19, Seq=1588
+2025-05-14 08:32:53.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xFA19
+2025-05-14 08:32:53.160000 [PHY] [MEAS] UE_ID=0xFA19: RSRP=-86.7 dBm, RSRQ=-5.5 dB, SINR=10.6 dB
+2025-05-14 08:32:53.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x45E8 (RNTI=0x5BA)
+2025-05-14 08:32:53.505000 [gNodeB] [INFO] Allocated C-RNTI=0x868 for UE_ID=0x45E8
+2025-05-14 08:32:53.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x45E8
+2025-05-14 08:32:53.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x45E8, TBS=3493 bytes, MCS=22, RBs=44
+2025-05-14 08:32:53.570000 [PHY] [UL] PUSCH received from UE_ID=0x45E8, RSRP=-94.1 dBm, SINR=26.9 dB, CQI=9
+2025-05-14 08:32:53.595000 [PDCP] [UL] Uplink data received from UE_ID=0x45E8, SDU size=125 bytes
+2025-05-14 08:32:53.611000 [RLC] [UL] RLC ACK received from UE_ID=0x45E8, Seq=1375
+2025-05-14 08:32:53.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x45E8
+2025-05-14 08:32:53.660000 [PHY] [MEAS] UE_ID=0x45E8: RSRP=-85.2 dBm, RSRQ=-6.5 dB, SINR=11.1 dB
+2025-05-14 08:32:54 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x8189 (RNTI=0x89A)
+2025-05-14 08:32:54.005000 [gNodeB] [INFO] Allocated C-RNTI=0xB9A for UE_ID=0x8189
+2025-05-14 08:32:54.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x8189
+2025-05-14 08:32:54.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x8189, TBS=3389 bytes, MCS=15, RBs=47
+2025-05-14 08:32:54.070000 [PHY] [UL] PUSCH received from UE_ID=0x8189, RSRP=-86.1 dBm, SINR=15.7 dB, CQI=9
+2025-05-14 08:32:54.095000 [PDCP] [UL] Uplink data received from UE_ID=0x8189, SDU size=119 bytes
+2025-05-14 08:32:54.111000 [RLC] [UL] RLC ACK received from UE_ID=0x8189, Seq=1722
+2025-05-14 08:32:54.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x8189
+2025-05-14 08:32:54.160000 [PHY] [MEAS] UE_ID=0x8189: RSRP=-83.0 dBm, RSRQ=-13.0 dB, SINR=25.2 dB
+2025-05-14 08:32:54.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x27B7 (RNTI=0xA1B)
+2025-05-14 08:32:54.505000 [gNodeB] [INFO] Allocated C-RNTI=0x148 for UE_ID=0x27B7
+2025-05-14 08:32:54.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x27B7
+2025-05-14 08:32:54.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x27B7, TBS=3775 bytes, MCS=25, RBs=60
+2025-05-14 08:32:54.570000 [PHY] [UL] PUSCH received from UE_ID=0x27B7, RSRP=-87.3 dBm, SINR=23.0 dB, CQI=13
+2025-05-14 08:32:54.595000 [PDCP] [UL] Uplink data received from UE_ID=0x27B7, SDU size=158 bytes
+2025-05-14 08:32:54.611000 [RLC] [UL] RLC ACK received from UE_ID=0x27B7, Seq=1249
+2025-05-14 08:32:54.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x27B7
+2025-05-14 08:32:54.660000 [PHY] [MEAS] UE_ID=0x27B7: RSRP=-88.0 dBm, RSRQ=-8.7 dB, SINR=16.4 dB
+2025-05-14 08:32:55 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xF70E (RNTI=0x5D4)
+2025-05-14 08:32:55.005000 [gNodeB] [INFO] Allocated C-RNTI=0x5DD for UE_ID=0xF70E
+2025-05-14 08:32:55.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xF70E
+2025-05-14 08:32:55.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xF70E, TBS=3703 bytes, MCS=21, RBs=47
+2025-05-14 08:32:55.070000 [PHY] [UL] PUSCH received from UE_ID=0xF70E, RSRP=-90.7 dBm, SINR=12.8 dB, CQI=11
+2025-05-14 08:32:55.095000 [PDCP] [UL] Uplink data received from UE_ID=0xF70E, SDU size=256 bytes
+2025-05-14 08:32:55.111000 [RLC] [UL] RLC ACK received from UE_ID=0xF70E, Seq=1074
+2025-05-14 08:32:55.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xF70E
+2025-05-14 08:32:55.160000 [PHY] [MEAS] UE_ID=0xF70E: RSRP=-97.5 dBm, RSRQ=-11.5 dB, SINR=20.4 dB
+2025-05-14 08:32:55.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xCD0A (RNTI=0x0E6)
+2025-05-14 08:32:55.505000 [gNodeB] [INFO] Allocated C-RNTI=0xDE3 for UE_ID=0xCD0A
+2025-05-14 08:32:55.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xCD0A
+2025-05-14 08:32:55.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xCD0A, TBS=3848 bytes, MCS=12, RBs=41
+2025-05-14 08:32:55.570000 [PHY] [UL] PUSCH received from UE_ID=0xCD0A, RSRP=-87.2 dBm, SINR=29.1 dB, CQI=15
+2025-05-14 08:32:55.595000 [PDCP] [UL] Uplink data received from UE_ID=0xCD0A, SDU size=184 bytes
+2025-05-14 08:32:55.611000 [RLC] [UL] RLC ACK received from UE_ID=0xCD0A, Seq=1475
+2025-05-14 08:32:55.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xCD0A
+2025-05-14 08:32:55.660000 [PHY] [MEAS] UE_ID=0xCD0A: RSRP=-97.2 dBm, RSRQ=-14.9 dB, SINR=28.9 dB
+2025-05-14 08:32:56 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xF11B (RNTI=0x86D)
+2025-05-14 08:32:56.005000 [gNodeB] [INFO] Allocated C-RNTI=0x2E1 for UE_ID=0xF11B
+2025-05-14 08:32:56.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xF11B
+2025-05-14 08:32:56.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xF11B, TBS=3100 bytes, MCS=13, RBs=58
+2025-05-14 08:32:56.070000 [PHY] [UL] PUSCH received from UE_ID=0xF11B, RSRP=-80.1 dBm, SINR=29.4 dB, CQI=14
+2025-05-14 08:32:56.095000 [PDCP] [UL] Uplink data received from UE_ID=0xF11B, SDU size=142 bytes
+2025-05-14 08:32:56.111000 [RLC] [UL] RLC ACK received from UE_ID=0xF11B, Seq=1297
+2025-05-14 08:32:56.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xF11B
+2025-05-14 08:32:56.160000 [PHY] [MEAS] UE_ID=0xF11B: RSRP=-86.1 dBm, RSRQ=-10.1 dB, SINR=25.8 dB
+2025-05-14 08:32:56.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x49BE (RNTI=0x60C)
+2025-05-14 08:32:56.505000 [gNodeB] [INFO] Allocated C-RNTI=0x6DC for UE_ID=0x49BE
+2025-05-14 08:32:56.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x49BE
+2025-05-14 08:32:56.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x49BE, TBS=3187 bytes, MCS=16, RBs=51
+2025-05-14 08:32:56.570000 [PHY] [UL] PUSCH received from UE_ID=0x49BE, RSRP=-94.6 dBm, SINR=19.5 dB, CQI=14
+2025-05-14 08:32:56.595000 [PDCP] [UL] Uplink data received from UE_ID=0x49BE, SDU size=234 bytes
+2025-05-14 08:32:56.611000 [RLC] [UL] RLC ACK received from UE_ID=0x49BE, Seq=1878
+2025-05-14 08:32:56.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x49BE
+2025-05-14 08:32:56.660000 [PHY] [MEAS] UE_ID=0x49BE: RSRP=-97.7 dBm, RSRQ=-13.6 dB, SINR=25.8 dB
+2025-05-14 08:32:57 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x1E09 (RNTI=0x1DF)
+2025-05-14 08:32:57.005000 [gNodeB] [INFO] Allocated C-RNTI=0xF53 for UE_ID=0x1E09
+2025-05-14 08:32:57.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x1E09
+2025-05-14 08:32:57.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x1E09, TBS=3798 bytes, MCS=10, RBs=40
+2025-05-14 08:32:57.070000 [PHY] [UL] PUSCH received from UE_ID=0x1E09, RSRP=-98.7 dBm, SINR=18.5 dB, CQI=9
+2025-05-14 08:32:57.095000 [PDCP] [UL] Uplink data received from UE_ID=0x1E09, SDU size=260 bytes
+2025-05-14 08:32:57.111000 [RLC] [UL] RLC ACK received from UE_ID=0x1E09, Seq=1170
+2025-05-14 08:32:57.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x1E09
+2025-05-14 08:32:57.160000 [PHY] [MEAS] UE_ID=0x1E09: RSRP=-81.8 dBm, RSRQ=-10.9 dB, SINR=28.2 dB
+2025-05-14 08:32:57.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x5D17 (RNTI=0x2F6)
+2025-05-14 08:32:57.505000 [gNodeB] [INFO] Allocated C-RNTI=0xFC3 for UE_ID=0x5D17
+2025-05-14 08:32:57.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x5D17
+2025-05-14 08:32:57.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x5D17, TBS=3726 bytes, MCS=23, RBs=42
+2025-05-14 08:32:57.570000 [PHY] [UL] PUSCH received from UE_ID=0x5D17, RSRP=-93.1 dBm, SINR=23.1 dB, CQI=9
+2025-05-14 08:32:57.595000 [PDCP] [UL] Uplink data received from UE_ID=0x5D17, SDU size=128 bytes
+2025-05-14 08:32:57.611000 [RLC] [UL] RLC ACK received from UE_ID=0x5D17, Seq=1947
+2025-05-14 08:32:57.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x5D17
+2025-05-14 08:32:57.660000 [PHY] [MEAS] UE_ID=0x5D17: RSRP=-86.3 dBm, RSRQ=-7.5 dB, SINR=23.8 dB
+2025-05-14 08:32:58 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x40F0 (RNTI=0xC5E)
+2025-05-14 08:32:58.005000 [gNodeB] [INFO] Allocated C-RNTI=0x13C for UE_ID=0x40F0
+2025-05-14 08:32:58.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x40F0
+2025-05-14 08:32:58.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x40F0, TBS=3278 bytes, MCS=24, RBs=48
+2025-05-14 08:32:58.070000 [PHY] [UL] PUSCH received from UE_ID=0x40F0, RSRP=-96.4 dBm, SINR=14.9 dB, CQI=8
+2025-05-14 08:32:58.095000 [PDCP] [UL] Uplink data received from UE_ID=0x40F0, SDU size=151 bytes
+2025-05-14 08:32:58.111000 [RLC] [UL] RLC ACK received from UE_ID=0x40F0, Seq=1748
+2025-05-14 08:32:58.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x40F0
+2025-05-14 08:32:58.160000 [PHY] [MEAS] UE_ID=0x40F0: RSRP=-98.1 dBm, RSRQ=-12.5 dB, SINR=17.0 dB
+2025-05-14 08:32:58.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x4B50 (RNTI=0x21C)
+2025-05-14 08:32:58.505000 [gNodeB] [INFO] Allocated C-RNTI=0xC21 for UE_ID=0x4B50
+2025-05-14 08:32:58.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x4B50
+2025-05-14 08:32:58.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x4B50, TBS=3804 bytes, MCS=10, RBs=59
+2025-05-14 08:32:58.570000 [PHY] [UL] PUSCH received from UE_ID=0x4B50, RSRP=-88.1 dBm, SINR=14.3 dB, CQI=6
+2025-05-14 08:32:58.595000 [PDCP] [UL] Uplink data received from UE_ID=0x4B50, SDU size=159 bytes
+2025-05-14 08:32:58.611000 [RLC] [UL] RLC ACK received from UE_ID=0x4B50, Seq=1540
+2025-05-14 08:32:58.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x4B50
+2025-05-14 08:32:58.660000 [PHY] [MEAS] UE_ID=0x4B50: RSRP=-81.3 dBm, RSRQ=-8.5 dB, SINR=17.6 dB
+2025-05-14 08:32:59 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0x1413 (RNTI=0x9C0)
+2025-05-14 08:32:59.005000 [gNodeB] [INFO] Allocated C-RNTI=0x8A9 for UE_ID=0x1413
+2025-05-14 08:32:59.018000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0x1413
+2025-05-14 08:32:59.040000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0x1413, TBS=3905 bytes, MCS=22, RBs=44
+2025-05-14 08:32:59.070000 [PHY] [UL] PUSCH received from UE_ID=0x1413, RSRP=-93.0 dBm, SINR=15.5 dB, CQI=11
+2025-05-14 08:32:59.095000 [PDCP] [UL] Uplink data received from UE_ID=0x1413, SDU size=136 bytes
+2025-05-14 08:32:59.111000 [RLC] [UL] RLC ACK received from UE_ID=0x1413, Seq=1018
+2025-05-14 08:32:59.139000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0x1413
+2025-05-14 08:32:59.160000 [PHY] [MEAS] UE_ID=0x1413: RSRP=-98.4 dBm, RSRQ=-10.4 dB, SINR=22.8 dB
+2025-05-14 08:32:59.500000 [gNodeB] [INFO] RRC Connection Request received from UE_ID=0xD35D (RNTI=0x3B6)
+2025-05-14 08:32:59.505000 [gNodeB] [INFO] Allocated C-RNTI=0x0BF for UE_ID=0xD35D
+2025-05-14 08:32:59.518000 [gNodeB] [INFO] RRC Connection Setup completed for UE_ID=0xD35D
+2025-05-14 08:32:59.540000 [MAC] [DL] HARQ Process ID=2: DL grant sent to UE_ID=0xD35D, TBS=3588 bytes, MCS=15, RBs=59
+2025-05-14 08:32:59.570000 [PHY] [UL] PUSCH received from UE_ID=0xD35D, RSRP=-97.0 dBm, SINR=19.7 dB, CQI=11
+2025-05-14 08:32:59.595000 [PDCP] [UL] Uplink data received from UE_ID=0xD35D, SDU size=153 bytes
+2025-05-14 08:32:59.611000 [RLC] [UL] RLC ACK received from UE_ID=0xD35D, Seq=1093
+2025-05-14 08:32:59.639000 [MAC] [DL] HARQ ACK received for Process ID=2 from UE_ID=0xD35D
+2025-05-14 08:32:59.660000 [PHY] [MEAS] UE_ID=0xD35D: RSRP=-86.5 dBm, RSRQ=-9.7 dB, SINR=17.3 dB
