@@ -75,8 +75,6 @@ Less common, but worth checking during area-wide spikes.
 	•	Bad config pushed via EMS (wrong PCI/TA/NRARFCN).
 	•	Incomplete restart after upgrade, e.g., partial component active.
 
-Note. Above problems are not all covered withing this application - UNDER CONSTRUCTION
-
 # DEMO
 
 ```bash
@@ -133,4 +131,5 @@ Example log file (.txt) is provided in the repository for testing purposes
 ## Inquiries
 
 In case of inquiries, feel free to send a message via email to nidalaburaed94@gmail.com
+
 
