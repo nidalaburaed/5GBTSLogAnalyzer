@@ -120,6 +120,8 @@ Run the code using the following command:
 ./logAnalyzer <log-file.txt>
 ```
 
+NOTE. You need atleast C++17 (or newer) compiler to support the compilation
+
 # Next steps
 
 Log file conversion from .txt to csv while doing analysis - file conversion feature
@@ -131,5 +133,6 @@ Example log file (.txt) is provided in the repository for testing purposes
 ## Inquiries
 
 In case of inquiries, feel free to send a message via email to nidalaburaed94@gmail.com
+
 
 
