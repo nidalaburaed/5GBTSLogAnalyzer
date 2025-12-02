@@ -120,7 +120,7 @@ Run the code using the following command:
 ./logAnalyzer <log-file.txt>
 ```
 
-NOTE. You need atleast C++17 (or newer) compiler to support the compilation
+NOTE. You need atleast C++17 (or newer) compiler to support the compilation. If you can't compile the tool on your local workstation, another option is to compile the tool on some online-based IDE
 
 # Next steps
 
